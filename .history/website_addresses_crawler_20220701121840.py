@@ -74,7 +74,7 @@ def single_crawl(name, url):
     max_page = int(max_page_tag.get_attribute("data-ci-pagination-page"))
     driver.close()
     # print(max_page)
-    for page in range(1, 20 + 1):
+    for page in range(1, max_page + 1):
         time.sleep(3)
         crawl_page(coin_name=name, page_url = url + f"?page={page}", page=page)
         time.sleep(1)
@@ -86,7 +86,7 @@ def crawl_page(coin_name, page_url, page):
     options.add_argument('-ignore -ssl-errors')
     driver = webdriver.Chrome(options = options)
     driver.get(page_url)
-    time.sleep(10)
+    # time.sleep(15)
     # failure = 0
     # while True:
     #     try:
@@ -95,10 +95,10 @@ def crawl_page(coin_name, page_url, page):
     #         # print(total_balance.text)
     #         total_balance = float(total_balance.text.strip('\r').strip('\n').strip(' ').split(' ')[-1]) # get value only 
     #         # print(total_balance)
-    #         # total_received = driver.find_element(by = By.XPATH, value = "/html/body/div[1]/div/div[3]/div/div/div[2]/div/div/div[2]/div[2]/span/span[2]")
-    #         # total_received = float(total_received.text.strip('\r').strip('\n').strip(' ').split(' ')[-1]) # get value only
-    #         # total_tx = driver.find_element(by = By.XPATH, value = "/html/body/div[1]/div/div[3]/div/div/div[2]/div/div/div[2]/div[2]/span/span[3]")
-    #         # total_tx = float(total_tx.text.strip('\r').strip('\n').strip(' ').split(' ')[-1]) # get value only
+    #         total_received = driver.find_element(by = By.XPATH, value = "/html/body/div[1]/div/div[3]/div/div/div[2]/div/div/div[2]/div[2]/span/span[2]")
+    #         total_received = float(total_received.text.strip('\r').strip('\n').strip(' ').split(' ')[-1]) # get value only
+    #         total_tx = driver.find_element(by = By.XPATH, value = "/html/body/div[1]/div/div[3]/div/div/div[2]/div/div/div[2]/div[2]/span/span[3]")
+    #         total_tx = float(total_tx.text.strip('\r').strip('\n').strip(' ').split(' ')[-1]) # get value only
     #         break
     #     except:
     #         failure += 1
@@ -108,7 +108,8 @@ def crawl_page(coin_name, page_url, page):
     # print(total_received)
     # print(total_tx)
     
-
+    address_types = ["P2PKH(c)", "P2SH(c)", "BECH32(c)", "P2PKH(u)"]
+    col3_type = ["balance", "tx", "recv"]
     page_dict = {}
     # page_dict["total balance"] = total_balance
     # page_dict["total received"] = total_received
@@ -126,13 +127,15 @@ def crawl_page(coin_name, page_url, page):
     addr_span_xpath = "/html/body/div[1]/div/div[3]/div/div/div[2]/div/div/div[4]/table/tbody/tr[{}]/td[2]/div/span[2]"
     except_addr_span_xpath = "/html/body/div[1]/div/div[3]/div/div/div[2]/div/div/div[4]/table/tbody/tr[{}]/td[2]/span" # 这个是报异常之后调用的
     
-    address_div_xpath = "/html/body/div[1]/div/div[3]/div/div/div[2]/div/div/div[4]/table/tbody/tr[{}]/td[3]/div" # 检查第三列是否存在div标签
-    address_values_xpath = "/html/body/div[1]/div/div[3]/div/div/div[2]/div/div/div[4]/table/tbody/tr[{}]/td[3]/div[{}]/span/span" # format(tri, addr_j, col3_k) 获得所有可能的列表
-    except_address_value_xpath = "/html/body/div[1]/div/div[3]/div/div/div[2]/div/div/div[4]/table/tbody/tr[{}]/td[3]/span[{}]/span"
+    address_xpath = "/html/body/div[1]/div/div[3]/div/div/div[2]/div/div/div[4]/table/tbody/tr[{}]/td[2]/div[{}]/span[2]" # format(tr_i, addr_j)
+    address_value_xpath = "/html/body/div[1]/div/div[3]/div/div/div[2]/div/div/div[4]/table/tbody/tr[{}]/td[3]/div[{}]/span[{}]/span" # format(tri, addr_j, col3_k)
+    except_address_value_xpath = "/html/body/div[1]/div/div[3]/div/div/div[2]/div/div/div[4]/table/tbody/tr[{}]/td[3]/span[1]/span"
     for i in range(1, tr_cnt + 1):
         row_dict = {} # 每一行构成一个字典
-
-        span_tags = driver.find_elements(by = By.XPATH, value = PK_span_tags_xpath.format(i))
+        failure = 0
+        # while True:
+        #     try:
+        span_tags = driver.find_elements(by = By.XPATH, value = PK_span_tags_xpath)
         span_tags = [tag.text for tag in span_tags] # 获得第一列上面所有的PK和passphrase名称
         
         # 优先处理最后一个，因为最后一个一定是passphrase
@@ -148,39 +151,32 @@ def crawl_page(coin_name, page_url, page):
         row_dict["Addresses"] = {}
         address_dict = {} # 地址构成字典
 
-
-        # 表明正常运行
-        addr_divs = driver.find_elements(by = By.XPATH, value = addr_div_xpath.format(i))
-        if len(addr_divs) > 0:
+        try:
+            # 表明正常运行
+            addr_divs = driver.find_elements(by = By.XPATH, value = addr_div_xpath.format(i))
             addr_types = driver.find_elements(by = By.XPATH, value = addr_span_names_xpath.format(i))
             addr_types = [addrtype.text for addrtype in addr_types]
-            addr_vals = driver.find_elements(by = By.XPATH, value = addr_span_xpath.format(i))
+            addr_vals = driver.find_element(by = By.XPATH, value = addr_span_xpath.format(i))
             addr_vals = [val.text for val in addr_vals]
             for addr_name, addr_val in zip(addr_types, addr_vals):
-                address_dict[addr_name] = {}
-                address_dict[addr_name]["address"] = addr_val
-        else:
+                address_dict[addr_name] = addr_val
+        except:
             addr_types = ["Addresses"]
-            address_dict["Addresses"] = {}
             addr_val = driver.find_element(by = By.XPATH, value = except_addr_span_xpath.format(i))
             addr_val = addr_val.text
-            address_dict["Addresses"]["address"] = addr_val
+            address_dict["Addresses"] = addr_val
             
+        
+        
         for j, address_type in enumerate(list(address_dict.keys())):
-            final_value_xpath = ""
-            val_divs = driver.find_elements(by = By.XPATH, value = address_div_xpath.format(i))
-            # 如果存在，那就说明有三个
-            if len(val_divs) > 0:
-                col_types = ["balance", "tx", "recv"]
-                final_value_xpath = address_values_xpath
-            else:
-                col_types = ["balance"]
-                final_value_xpath = except_address_value_xpath
-            addr_val_list = driver.find_elements(by = By.XPATH, value = final_value_xpath.format(i, j + 1))
-            addr_val_list = [val.text for val in addr_val_list]
-            for k, col_val_name in enumerate(col_types):
-                address_dict[address_type][col_val_name] = addr_val_list[k]
-                
+            address = driver.find_element(by = By.XPATH, value = address_xpath.format(i, j + 1))
+            address = address.text
+            address_dict[address_type] = {}
+            address_dict[address_type]["address"] = address
+            for k, col_type in enumerate(col3_type):
+                type_val = driver.find_element(by = By.XPATH, value = address_value_xpath.format(i, j + 1, k + 1))
+                type_val = type_val.text
+                address_dict[address_type][col_type] = type_val
 
         row_dict["Addresses"] = address_dict
         page_dict["tables"][str(i)] = row_dict
@@ -196,6 +192,5 @@ if __name__ == "__main__":
     # coinname_xpath = "/html/body/div[1]/div/div[3]/div[3]/div/a"
     # get_all_Coin_name_dict(url = url, xpath = coinname_xpath)
     # single_crawl(name = "bitcoin", url = "https://privatekeyfinder.io/brainwallet/bitcoin/") 
-    # crawl_page(coin_name="ethereum",
-    #            page_url="https://privatekeyfinder.io/brainwallet/ethereum/?page=1", page=1)
+    # crawl_page(coin_name = "bitcoin", page_url = "https://privatekeyfinder.io/brainwallet/bitcoin/?page=1", page = 1)
     multi_crawl()

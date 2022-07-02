@@ -154,7 +154,7 @@ def crawl_page(coin_name, page_url, page):
         if len(addr_divs) > 0:
             addr_types = driver.find_elements(by = By.XPATH, value = addr_span_names_xpath.format(i))
             addr_types = [addrtype.text for addrtype in addr_types]
-            addr_vals = driver.find_elements(by = By.XPATH, value = addr_span_xpath.format(i))
+            addr_vals = driver.find_element(by = By.XPATH, value = addr_span_xpath.format(i))
             addr_vals = [val.text for val in addr_vals]
             for addr_name, addr_val in zip(addr_types, addr_vals):
                 address_dict[addr_name] = {}

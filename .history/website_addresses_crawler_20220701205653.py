@@ -74,7 +74,7 @@ def single_crawl(name, url):
     max_page = int(max_page_tag.get_attribute("data-ci-pagination-page"))
     driver.close()
     # print(max_page)
-    for page in range(1, 20 + 1):
+    for page in range(1, max_page + 1):
         time.sleep(3)
         crawl_page(coin_name=name, page_url = url + f"?page={page}", page=page)
         time.sleep(1)
@@ -154,7 +154,7 @@ def crawl_page(coin_name, page_url, page):
         if len(addr_divs) > 0:
             addr_types = driver.find_elements(by = By.XPATH, value = addr_span_names_xpath.format(i))
             addr_types = [addrtype.text for addrtype in addr_types]
-            addr_vals = driver.find_elements(by = By.XPATH, value = addr_span_xpath.format(i))
+            addr_vals = driver.find_element(by = By.XPATH, value = addr_span_xpath.format(i))
             addr_vals = [val.text for val in addr_vals]
             for addr_name, addr_val in zip(addr_types, addr_vals):
                 address_dict[addr_name] = {}
@@ -196,6 +196,6 @@ if __name__ == "__main__":
     # coinname_xpath = "/html/body/div[1]/div/div[3]/div[3]/div/a"
     # get_all_Coin_name_dict(url = url, xpath = coinname_xpath)
     # single_crawl(name = "bitcoin", url = "https://privatekeyfinder.io/brainwallet/bitcoin/") 
-    # crawl_page(coin_name="ethereum",
-    #            page_url="https://privatekeyfinder.io/brainwallet/ethereum/?page=1", page=1)
-    multi_crawl()
+    crawl_page(coin_name="ethereum",
+               page_url="https://privatekeyfinder.io/brainwallet/ethereum/?page=1", page=1)
+    # multi_crawl()

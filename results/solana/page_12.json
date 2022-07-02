@@ -1,0 +1,712 @@
+{
+    "tables": {
+        "1": {
+            "passphrase": "juanitobanana",
+            "HEX": "2b1b973a207e90814e0fa038075bf7ca912c3612b694d8998b88c88a265afbf9",
+            "BS58": "rzJimNomEvoDnTsVUWwVhFGAB351PbTGcmRGzqTxZtjrTWEamd...",
+            "UINT8": "[43,27,151,58,32,126,144,129,78,15,160,56,7,91,247,202,145,44,54,...",
+            "Addresses": {
+                "Addresses": {
+                    "address": "4ncVpae8BQG4ChZ9PJCkEPLhuoTwZZHXKSGcbAkzvMDT",
+                    "balance": "0 sol"
+                }
+            }
+        },
+        "2": {
+            "passphrase": "191XapdsjZJjReJUbQiWAH3ZVyLcxtcc1Y",
+            "HEX": "5840be1c72ee24f2b89283bc704617f9401b793721417e38aa5600c2af5b5006",
+            "BS58": "2mLdxhEbtNkJUi4pZazEpjmL2tiCbK9JBd9Gc8V9Rp5ZPzEHTn...",
+            "UINT8": "[88,64,190,28,114,238,36,242,184,146,131,188,112,70,23,249,64,27,...",
+            "Addresses": {
+                "Addresses": {
+                    "address": "ANiU8FBwdmCBuL7UQcgXEFVz2q1BLad6TgGTUSeaJTXZ",
+                    "balance": "0 sol"
+                }
+            }
+        },
+        "3": {
+            "passphrase": "1MMBdLWiAK71oevANJrLHXXKAK8bZrPtqx",
+            "HEX": "71ef133790f49b2232587aeb5f9f28f7f0ac812d216c38ea7d339b184eee3679",
+            "BS58": "3H7sGsvgjuHYPVXyXhHMxkuJxMVEuU9eyi9FULiCEKcvUCy5k9...",
+            "UINT8": "[113,239,19,55,144,244,155,34,50,88,122,235,95,159,40,247,240,172...",
+            "Addresses": {
+                "Addresses": {
+                    "address": "DwjqiK5ZzQeMvotip354LcHZ9hf5SBQGPQvHu7BNUypd",
+                    "balance": "0 sol"
+                }
+            }
+        },
+        "4": {
+            "passphrase": "18AsiEQoLLKaF4Co1z4rxHyzJu9oqTVbFE",
+            "HEX": "9869915a579dd8a1886af3ce03eb8e3d5fcdc0cee1c56424f6d55926139bb277",
+            "BS58": "43jpY66KPYCnMC1vqn61WBQFU42rE4atGhwV7F7ZL5TVLedcgN...",
+            "UINT8": "[152,105,145,90,87,157,216,161,136,106,243,206,3,235,142,61,95,20...",
+            "Addresses": {
+                "Addresses": {
+                    "address": "GE46JU2drTXBopvSixYiv6WvmEyA1UWiqZVcmT293H3T",
+                    "balance": "0 sol"
+                }
+            }
+        },
+        "5": {
+            "passphrase": "thisisyou2",
+            "HEX": "5b6beedf9ea137c5a72339b3b67b1ca9742f57973465e24c295a06bb53581055",
+            "BS58": "2q1kqUcTMDXMb28QMqRj2FmJ9KoUm9hQa8dnf39g3cGHUKv2SA...",
+            "UINT8": "[91,107,238,223,158,161,55,197,167,35,57,179,182,123,28,169,116,4...",
+            "Addresses": {
+                "Addresses": {
+                    "address": "9KggFby4psUPeHCjt6qnqX2gyEb5SdnLMDUtzTsG3m3X",
+                    "balance": "0 sol"
+                }
+            }
+        },
+        "6": {
+            "passphrase": "thisisyou",
+            "HEX": "20f4d80b2150e55a20a0737ff5cd3b16bdec57837b073284b6960f157ed44401",
+            "BS58": "fDZAHqSCVd7GVBA3ozwVFBKk5BKpNxKiFVLcJpBstQizGTEtsc...",
+            "UINT8": "[32,244,216,11,33,80,229,90,32,160,115,127,245,205,59,22,189,236,...",
+            "Addresses": {
+                "Addresses": {
+                    "address": "6wG6VKyqWe8aoGe9PgvzF77Ft4ABKKdpcz9csmAh9EEA",
+                    "balance": "0 sol"
+                }
+            }
+        },
+        "7": {
+            "passphrase": "base58",
+            "HEX": "1eb563809150c402ed782011f220574ce44f55668105dadeba9c83134a187bb4",
+            "BS58": "ccNQVqsu8PGZ8ov1gGabP2TMK6EvevhTHwFfcUHDroZzYmQtHC...",
+            "UINT8": "[30,181,99,128,145,80,196,2,237,120,32,17,242,32,87,76,228,79,85,...",
+            "Addresses": {
+                "Addresses": {
+                    "address": "98yWiygeXy7EjEY1iFYkdjsWavYj4MCwLi2WafGrTgeA",
+                    "balance": "0 sol"
+                }
+            }
+        },
+        "8": {
+            "passphrase": "Stillwell",
+            "HEX": "da951f148f694f6a17b3b094c6c12484d2d73a8aff43dcc78a9577be36df2e01",
+            "BS58": "5NUEWu9kcUExwA2rUXusxpYYcDbs6Rm8DCf1jEUVFUZHAyj1a9...",
+            "UINT8": "[218,149,31,20,143,105,79,106,23,179,176,148,198,193,36,132,210,2...",
+            "Addresses": {
+                "Addresses": {
+                    "address": "C8djCd8rBQ7whPhtLaiwtp6Rytae3ZLE4NcR74jR4LNG",
+                    "balance": "0 sol"
+                }
+            }
+        },
+        "9": {
+            "passphrase": "Stonehenge",
+            "HEX": "cf5fb38fbc7c30beb97ae5f8645dd3ecaa5c8d3b7af6e28f68dcd03738617ebb",
+            "BS58": "59UNTFZ5Hi9oDCrxyFN6tjZyhoZjFEyNMyvnahrDj1KHbBvaVS...",
+            "UINT8": "[207,95,179,143,188,124,48,190,185,122,229,248,100,93,211,236,170...",
+            "Addresses": {
+                "Addresses": {
+                    "address": "2cH3PVwFgS2MiDZbwgSpsr6yGi63bmBZGeimz2w8FvLH",
+                    "balance": "0"
+                }
+            }
+        },
+        "10": {
+            "passphrase": "Stratford",
+            "HEX": "0c6e024f3f0f8d5dce4a6dbe6c2ba8a20cd827d2eb994086143c59846b902d4e",
+            "BS58": "FQzH5Nf2qzuM9KT9XM9tqnbqsB53Ba3tDksPDmboD4z9mhE2rW...",
+            "UINT8": "[12,110,2,79,63,15,141,93,206,74,109,190,108,43,168,162,12,216,39...",
+            "Addresses": {
+                "Addresses": {
+                    "address": "4RETcKaH3RsQapFM7a38GDSCHsQDPMThrTcvZ4oAubaD",
+                    "balance": "0 sol"
+                }
+            }
+        },
+        "11": {
+            "passphrase": "Stromberg",
+            "HEX": "cac12990835a432e9e60d9f4e7eff79983449383832cadf050a49789093193aa",
+            "BS58": "547gzJsWgeLsBFzKMW8r8sGahnVESBQYGuXNREZougL7o3RzhU...",
+            "UINT8": "[202,193,41,144,131,90,67,46,158,96,217,244,231,239,247,153,131,6...",
+            "Addresses": {
+                "Addresses": {
+                    "address": "FiuvbSHKuy6z3TXyru3UcXKbgPMGXwMwAby6yV3rf4nC",
+                    "balance": "0"
+                }
+            }
+        },
+        "12": {
+            "passphrase": "Strongheart",
+            "HEX": "b2b4de63abb2ccd7f947764d740a300daf83b385095777cfea3c9d6df79b62a7",
+            "BS58": "4aEHj8wX5wt6CJw21DxRzZCyRiaw89fc4qcgBttDXscEPGj5A6...",
+            "UINT8": "[178,180,222,99,171,178,204,215,249,71,118,77,116,10,48,13,175,13...",
+            "Addresses": {
+                "Addresses": {
+                    "address": "EyracZ71uAxmuvQR4TvGh1DZdjTBgGCwMzVEi3QKdmdc",
+                    "balance": "0 sol"
+                }
+            }
+        },
+        "13": {
+            "passphrase": "Stubblefields",
+            "HEX": "a8b329c642cdd013fc35fc78253f5a43be6f82380e93b4acaf4fbbed6ae35f4b",
+            "BS58": "4NdGbn84kgSQjCefL96obV4Yb751vWqHx5cmfrPa3Yy69xNT1t...",
+            "UINT8": "[168,179,41,198,66,205,208,19,252,53,252,120,37,63,90,67,190,111,...",
+            "Addresses": {
+                "Addresses": {
+                    "address": "AZ19d66NyepQRdWMLvqmCXxFg9dU277L6EKo8WaT5cec",
+                    "balance": "0 sol"
+                }
+            }
+        },
+        "14": {
+            "passphrase": "Sturbridge",
+            "HEX": "de3548e739e72485530e01627f92b1c508c660426fd43806ca07bd8bda854c11",
+            "BS58": "5Sg5pR8adjpm3gzCj39gQVcPuLhzkiv2Z4nYeLLgNoE66BPNHF...",
+            "UINT8": "[222,53,72,231,57,231,36,133,83,14,1,98,127,146,177,197,8,198,96,...",
+            "Addresses": {
+                "Addresses": {
+                    "address": "B6o4v1Zyk76XNT2XhWwj3B89Yd8MMhfdBi3BTTjrzow8",
+                    "balance": "0 sol"
+                }
+            }
+        },
+        "15": {
+            "passphrase": "Styrofoam",
+            "HEX": "d948a554d15cbabf48c9dd17f291d9badb8c6ec8e8f0a923b62dadc095925470",
+            "BS58": "5LxtGifXdMqSpHWRV9xyMfvGEnz791DYELgVoN43mXspEzD1hu...",
+            "UINT8": "[217,72,165,84,209,92,186,191,72,201,221,23,242,145,217,186,219,1...",
+            "Addresses": {
+                "Addresses": {
+                    "address": "77K1EV9Dw9AVdNsMFQjTm8nWBkiMBqLYYFiQHxK4VuZD",
+                    "balance": "0 sol"
+                }
+            }
+        },
+        "16": {
+            "passphrase": "Sunnyvale",
+            "HEX": "0ca0d1a7a2bdec2b734dbc60e2cd67833a4176f299b64137b633a13815fa1923",
+            "BS58": "FeLWwfb8QH8SZAvFt4f6xqfSkhz5fUFu2hHroQwkqVy976VMCC...",
+            "UINT8": "[12,160,209,167,162,189,236,43,115,77,188,96,226,205,103,131,58,6...",
+            "Addresses": {
+                "Addresses": {
+                    "address": "GX1eDDqz31SdqASV8czFD3ipkyutREUimrucJwaD51rd",
+                    "balance": "0 sol"
+                }
+            }
+        },
+        "17": {
+            "passphrase": "stillborn",
+            "HEX": "d612782f430f38f55f84e130d3b02c82e41f3eae23551a12b3ad5941806617e8",
+            "BS58": "5HEszcNpNE6eGDJbu4BBd6UCo8zuetJPvZWbLJ4gV5crAQL7if...",
+            "UINT8": "[214,18,120,47,67,15,56,245,95,132,225,48,211,176,44,130,228,31,6...",
+            "Addresses": {
+                "Addresses": {
+                    "address": "4n91jZ6oMqRByWVZVMUgBRPtoG278Y6y5gfe2Kiq5oLo",
+                    "balance": "0 sol"
+                }
+            }
+        },
+        "18": {
+            "passphrase": "stillness",
+            "HEX": "fc95cad4da251f0b294d3dc11a4abf487ff8fa3558add02e1e7457066d9d053e",
+            "BS58": "63u9otV17VVKKzycZVaweacWymFR4XgqXHgQzp4G3e4xw1f9LH...",
+            "UINT8": "[252,149,202,212,218,37,31,11,41,77,61,193,26,74,191,72,127,248,2...",
+            "Addresses": {
+                "Addresses": {
+                    "address": "Bd84hoRCPo5fDuruyAUq9cWgxP1iqpxcu7ZMEy7hkxNo",
+                    "balance": "0 sol"
+                }
+            }
+        },
+        "19": {
+            "passphrase": "stimulants",
+            "HEX": "0f8d44acdf80fc6e87f13f140ecf2d5c18ffd703a5635686a1735c67d7cef88e",
+            "BS58": "K2yM2EEFrqiwYt1mr5jXUSW5A6c72vPM6Rh1eTUHzvpwU5zP85...",
+            "UINT8": "[15,141,68,172,223,128,252,110,135,241,63,20,14,207,45,92,24,255,...",
+            "Addresses": {
+                "Addresses": {
+                    "address": "FXEH2YmXeHTPJkGEbGpUPgb5HMtj9QsaLeC2x1nQbsse",
+                    "balance": "0 sol"
+                }
+            }
+        },
+        "20": {
+            "passphrase": "stimulation",
+            "HEX": "41a14ef0a30a812946b69d522e1570db9e4c0d5579753ba429e7291a9bdbc96c",
+            "BS58": "2K76QYFp1HBiFKjeL7JTSQgniVqyMfvARynnxHr6tMeqBFqCU6...",
+            "UINT8": "[65,161,78,240,163,10,129,41,70,182,157,82,46,21,112,219,158,76,1...",
+            "Addresses": {
+                "Addresses": {
+                    "address": "AQLV6QQhJSu7ZB4jYvuEaUrSQZUhLSD3zoMCpwLmc5Td",
+                    "balance": "0 sol"
+                }
+            }
+        },
+        "21": {
+            "passphrase": "stimulations",
+            "HEX": "605de34c05e6a78d06da9521976fcc650dc1f006c9892ef039d375be466bcaa2",
+            "BS58": "2vkMPJhsUbePXa6EojiSg5HixoDk3W5jrefi6zhZ7KrW7hr2c7...",
+            "UINT8": "[96,93,227,76,5,230,167,141,6,218,149,33,151,111,204,101,13,193,2...",
+            "Addresses": {
+                "Addresses": {
+                    "address": "7opaSogaKZDXNdaFJuhYw7nWWW6dyeJERjyJTnh5fqNg",
+                    "balance": "0 sol"
+                }
+            }
+        },
+        "22": {
+            "passphrase": "stipulated",
+            "HEX": "b0f9cf4b062436a9a8e9b8ebb3a9839931841830dbe2fb2c6d988bb7317fee15",
+            "BS58": "4YDtRGib2pPdCfMX2fQeEQBbQmhseKLuyCmeRB472M6zVhqmyz...",
+            "UINT8": "[176,249,207,75,6,36,54,169,168,233,184,235,179,169,131,153,49,13...",
+            "Addresses": {
+                "Addresses": {
+                    "address": "AB6xT5QVdfXCmCK3R6SWQbk47kJhRrb9F8tibXwyMf2d",
+                    "balance": "0"
+                }
+            }
+        },
+        "23": {
+            "passphrase": "stipulates",
+            "HEX": "10555bcff97d66144645b0ffbf5a7ca1eeefbaf983f36d66655fd732f3f0c30e",
+            "BS58": "KwYK4EeUCek7VvMhnWxQsN3seMCcx5Xet31RHBam8uWM8u4LQM...",
+            "UINT8": "[16,85,91,207,249,125,102,20,70,69,176,255,191,90,124,161,238,239...",
+            "Addresses": {
+                "Addresses": {
+                    "address": "4Xf4JjzCTvzEt2yQFJdVMmEg2WtjGwW1iNu9eyYZdufW",
+                    "balance": "0"
+                }
+            }
+        },
+        "24": {
+            "passphrase": "stirringly",
+            "HEX": "624d52c130766201a59927547e19be399b4e38bd4b0c22cb13fc7fe6277fe7a6",
+            "BS58": "2xzWoV8gYpCKJKuQvYggtBU7S1BBNTiQB7eDBkpCL6DuSkAs5g...",
+            "UINT8": "[98,77,82,193,48,118,98,1,165,153,39,84,126,25,190,57,155,78,56,1...",
+            "Addresses": {
+                "Addresses": {
+                    "address": "GGUC8FwQJU58VySvJgrGAEnSsv957KExF1mvNuASsezP",
+                    "balance": "0 sol"
+                }
+            }
+        },
+        "25": {
+            "passphrase": "stitching",
+            "HEX": "7e6b78c39a33c7b8612793a37d4703ef9cbd2679c4c85bcf3edcb588592873ff",
+            "BS58": "3XbdnmTjoJz61RFZ6LsDVgD5LYozn8gAaSkQgewn5uN9AaRSRd...",
+            "UINT8": "[126,107,120,195,154,51,199,184,97,39,147,163,125,71,3,239,156,18...",
+            "Addresses": {
+                "Addresses": {
+                    "address": "F5acn6erStP3hvgo1zuoydomdwA6G3QHk69uqHN8GNZ7",
+                    "balance": "0 sol"
+                }
+            }
+        },
+        "26": {
+            "passphrase": "stockbroker",
+            "HEX": "697ba08df6d55317ccffd507254ce0d8926442d6beee67f6079746a11f92594d",
+            "BS58": "37KUmvWKqMZ54jjvj6F4yqehh5uwrDmSBkXTsVQjoy9xeAgHkg...",
+            "UINT8": "[105,123,160,141,246,213,83,23,204,255,213,7,37,76,224,216,146,10...",
+            "Addresses": {
+                "Addresses": {
+                    "address": "3fYkBZqqLz3rkak4x5ynYWJaGVpB7htthTWgGCiYR2MN",
+                    "balance": "0 sol"
+                }
+            }
+        },
+        "27": {
+            "passphrase": "stockholders",
+            "HEX": "63533b062196947ed24d66b4b2e369f5ad1c3f6004fd9092d9f982ce5ea8625d",
+            "BS58": "2zBKjN93pSWWLz85c2EQNyD739zMUr2JjKwnu1VW5wT8GWNCEj...",
+            "UINT8": "[99,83,59,6,33,150,148,126,210,77,102,180,178,227,105,245,173,28,...",
+            "Addresses": {
+                "Addresses": {
+                    "address": "AP36Up6a6LauxC7w4o2k3VQQNFFf1KKsQv7bAwReE2iT",
+                    "balance": "0 sol"
+                }
+            }
+        },
+        "28": {
+            "passphrase": "stockings",
+            "HEX": "15526073da9550db496e3e67aed38a0d905a7b8b3f1ff53d13126c5d56bf3e1c",
+            "BS58": "Rj3SgQC7aAVd1fJe33yXjGTmZ1EB6gqSbzdhuASvwuMyyS5sJv...",
+            "UINT8": "[21,82,96,115,218,149,80,219,73,110,62,103,174,211,138,13,144,90,...",
+            "Addresses": {
+                "Addresses": {
+                    "address": "7kALEJdA4bgiQY6KNVzN32ujECdw9ybfyBAqbakmm8Tk",
+                    "balance": "0 sol"
+                }
+            }
+        },
+        "29": {
+            "passphrase": "stockpile",
+            "HEX": "6963bb3449a2ebcd73bc0df9551d580f0ee693d57eee92e1d92375fe27dca15a",
+            "BS58": "37DCei3XuuMnGyn7CPCzsPcEMrompeM2M6FuHUQYCodEWVq6VX...",
+            "UINT8": "[105,99,187,52,73,162,235,205,115,188,13,249,85,29,88,15,14,230,1...",
+            "Addresses": {
+                "Addresses": {
+                    "address": "2xACrGPLtb7EE3CmKPv9tU2m9AvFtrFH8uLBjcqJohai",
+                    "balance": "0 sol"
+                }
+            }
+        },
+        "30": {
+            "passphrase": "stoichiometry",
+            "HEX": "48061aab70757c4f630f683525d18d9500bbc0e4d7989bd97991cb989e2fd688",
+            "BS58": "2SX7oyJw6ehjabgHAjYcbgbQFE1DAz3sK8RtoTzPccLbreE9Hm...",
+            "UINT8": "[72,6,26,171,112,117,124,79,99,15,104,53,37,209,141,149,0,187,192...",
+            "Addresses": {
+                "Addresses": {
+                    "address": "5iNymwdb67qVSkjQuLnyj1iqe9Q4VB3TPANXKk4ND6CT",
+                    "balance": "0 sol"
+                }
+            }
+        },
+        "31": {
+            "passphrase": "stomached",
+            "HEX": "9a08b47085638d0ebfd90ac43e040ad650317f006994770637e7aa3e78e35447",
+            "BS58": "45ctNYdXCJq3aDoN4umowQfxor5741uk9JZTAVMDmr81tVUULs...",
+            "UINT8": "[154,8,180,112,133,99,141,14,191,217,10,196,62,4,10,214,80,49,127...",
+            "Addresses": {
+                "Addresses": {
+                    "address": "mY8dwHHwgLBAQ2NSNMDTRyFVtkQqkdZvxouVhcJLVHH",
+                    "balance": "0 sol"
+                }
+            }
+        },
+        "32": {
+            "passphrase": "stomaches",
+            "HEX": "cbca4c1ab417d257bcbb1c0dd1397bac55b68d696d865881e56e42206bb374b4",
+            "BS58": "55KM6m5EZQJe7j1MbMmGkCwErAfzM41ws2nj1FBUATtpRBEuAN...",
+            "UINT8": "[203,202,76,26,180,23,210,87,188,187,28,13,209,57,123,172,85,182,...",
+            "Addresses": {
+                "Addresses": {
+                    "address": "88mjw8vwGRBWamr62VLuBqEbWf76pUW9PGzST6fbiWLX",
+                    "balance": "0 sol"
+                }
+            }
+        },
+        "33": {
+            "passphrase": "stopcocks",
+            "HEX": "73420de2f455da410e30180b63471d2a82073fc888dcedcde4f8052561c3e3dc",
+            "BS58": "3JevcwdD9wnjyYhKtEwWxZpsE8umCyALVYebr4z2brUiahuQmu...",
+            "UINT8": "[115,66,13,226,244,85,218,65,14,48,24,11,99,71,29,42,130,7,63,200...",
+            "Addresses": {
+                "Addresses": {
+                    "address": "5easdRPJeHHNsAJMkT3HqrLfiEM2x7G161DDhAN7CAX1",
+                    "balance": "0 sol"
+                }
+            }
+        },
+        "34": {
+            "passphrase": "stoppable",
+            "HEX": "4dabaed81a2e8ed8b224349f8163032dfdf7ff8602d7a28f916ae44bcfec11d6",
+            "BS58": "2Z4uTf68bgcPeaHUvRVnTNVUoqLSKMAfpmSRNz3dST83DAHZ4b...",
+            "UINT8": "[77,171,174,216,26,46,142,216,178,36,52,159,129,99,3,45,253,247,2...",
+            "Addresses": {
+                "Addresses": {
+                    "address": "GkjcmNw4GpLkAMJJtwQvoRjGcUeasC9869dpvCdAXESd",
+                    "balance": "0"
+                }
+            }
+        },
+        "35": {
+            "passphrase": "stopwatch",
+            "HEX": "cec3c7224bbe73a639813692f430390373e5f786be72de174da80ae9db9a07fa",
+            "BS58": "58mQVuAFtQxeW2qrRhkHMdr2TsPRMKRMeA5KXVv9XfMAGQwz5V...",
+            "UINT8": "[206,195,199,34,75,190,115,166,57,129,54,146,244,48,57,3,115,229,...",
+            "Addresses": {
+                "Addresses": {
+                    "address": "A7ivQQURJtaVhBS1yGEtXaa3dHKrGPsK2YTN9DisuGXr",
+                    "balance": "0 sol"
+                }
+            }
+        },
+        "36": {
+            "passphrase": "storekeeper",
+            "HEX": "d5367aea1c17343b6c380f774b81a8d7d5e33c43dc445fdc8a6f884723694f3d",
+            "BS58": "5GF5orxpFPhqwWWwxFXPRk2WpWoaepwpdVaoGz7hM2p3R9cuS9...",
+            "UINT8": "[213,54,122,234,28,23,52,59,108,56,15,119,75,129,168,215,213,227,...",
+            "Addresses": {
+                "Addresses": {
+                    "address": "29APxwmvAxdLDdYNswmzNJ87HHqkzhwQm6SsDCPQEWaF",
+                    "balance": "0 sol"
+                }
+            }
+        },
+        "37": {
+            "passphrase": "storeroom",
+            "HEX": "eced3c4a8884f98a04fc61b9c863976f31070dac8c1f906721e77c62b1c0112c",
+            "BS58": "5jk1eEn8iCq19rR91kswVfKFv88MMo7iEH5VpuiM9hvNsXPF7L...",
+            "UINT8": "[236,237,60,74,136,132,249,138,4,252,97,185,200,99,151,111,49,7,1...",
+            "Addresses": {
+                "Addresses": {
+                    "address": "AYvW4FY8pCY4jASNj7nfn1cZ1aancFu2ECPRDwWBdwc2",
+                    "balance": "0 sol"
+                }
+            }
+        },
+        "38": {
+            "passphrase": "straggled",
+            "HEX": "a6d94bfef2edd17658efdfa8024e8025aa26fffd36a1e3a67776fa20f0437fde",
+            "BS58": "4LUmrMGodhRZyhHJisuoKLwFGWWtkCwHR3BvDEduqdSAscug72...",
+            "UINT8": "[166,217,75,254,242,237,209,118,88,239,223,168,2,78,128,37,170,38...",
+            "Addresses": {
+                "Addresses": {
+                    "address": "5nYTsa4Wir5ZC7ioXEA2FzWWyMJ283k9ApWyscsMzUfT",
+                    "balance": "0 sol"
+                }
+            }
+        },
+        "39": {
+            "passphrase": "straggler",
+            "HEX": "3ea43526f5d3eecd7d3bd4c63253b3535e76c19bf3e0f6b7612fc312f1054b92",
+            "BS58": "2Fe5quifXgWbYX6F5JfGyaXRS7gF5oisWGngKuS4crnvi2mMJq...",
+            "UINT8": "[62,164,53,38,245,211,238,205,125,59,212,198,50,83,179,83,94,118,...",
+            "Addresses": {
+                "Addresses": {
+                    "address": "E1ZjrqkE2n5BDtZFUCEdrPJGoZyftSpkycjhkeQe9VvL",
+                    "balance": "0 sol"
+                }
+            }
+        },
+        "40": {
+            "passphrase": "stragglers",
+            "HEX": "d208bee6855141022dfda82b47b455363a6e9aba7d07340bae129badc7147c46",
+            "BS58": "5CZJAjVJvCUCKsLw6n3LxnD6VaB4c3GM5t2zc5xuMUEYdwnNey...",
+            "UINT8": "[210,8,190,230,133,81,65,2,45,253,168,43,71,180,85,54,58,110,154,...",
+            "Addresses": {
+                "Addresses": {
+                    "address": "E4ZW2BJcrfmjbQTXzeiWbUjSh8s6LMaMfCUz2nsGPZf5",
+                    "balance": "0 sol"
+                }
+            }
+        },
+        "41": {
+            "passphrase": "straggling",
+            "HEX": "5ce63548f809d5d8c8cf71f6669bd7623a704356347816f1597a7dac90fcd2a2",
+            "BS58": "2rj8yFypBgvdFGoB4NxyovUEzaWQvvzM5DZWATe1VokFhD6zk3...",
+            "UINT8": "[92,230,53,72,248,9,213,216,200,207,113,246,102,155,215,98,58,112...",
+            "Addresses": {
+                "Addresses": {
+                    "address": "Fz4KhXUQFJJQvbeuCLjFDfpxWozzdvAQTk4T1uGKGSnL",
+                    "balance": "0 sol"
+                }
+            }
+        },
+        "42": {
+            "passphrase": "straightened",
+            "HEX": "f8ea31d4645c52e959ea760d3c03dbef4cff658de45922be43f3b73df3245211",
+            "BS58": "5yeJGjaGdyJG5yKhSXpQbyiGHHKg7GXbf6y6xrHnPMYyeTr6SG...",
+            "UINT8": "[248,234,49,212,100,92,82,233,89,234,118,13,60,3,219,239,76,255,1...",
+            "Addresses": {
+                "Addresses": {
+                    "address": "F73TwvkHdSTfpLyz7ViCUNtqyqyKLhVW9WfENkECkyn9",
+                    "balance": "0 sol"
+                }
+            }
+        },
+        "43": {
+            "passphrase": "straightens",
+            "HEX": "6e7a248e28bfe997297d440b73360946dc917e0946f9d0c690f1c1ef8013b965",
+            "BS58": "3D7Nj3JwNqspdZL4MynaHswYtaCJfPzwpQPuLt5GY3L4PQv4Fq...",
+            "UINT8": "[110,122,36,142,40,191,233,151,41,125,68,11,115,54,9,70,220,145,1...",
+            "Addresses": {
+                "Addresses": {
+                    "address": "5KuZQpQ8zwsLfEYvMz8yHbF2p74wWSR556VxgbwNigCN",
+                    "balance": "0 sol"
+                }
+            }
+        },
+        "44": {
+            "passphrase": "straightest",
+            "HEX": "b247e6b2c82fc7997bca2106ca29061d7063334cab6c8c2adcd38fc008799785",
+            "BS58": "4ZjfHY8vNGK3pberXG9xzEf86yokhfqTeN3i57T3ze5hVtTatM...",
+            "UINT8": "[178,71,230,178,200,47,199,153,123,202,33,6,202,41,6,29,112,99,51...",
+            "Addresses": {
+                "Addresses": {
+                    "address": "3fx3uQxrMbHN5Na6pnmLr4c72aA7yzVxQnBTMCvDE5R7",
+                    "balance": "0 sol"
+                }
+            }
+        },
+        "45": {
+            "passphrase": "straightforward",
+            "HEX": "50f5f1b46dea63cc05061aefce2b6bfd5d6558b3db54f5a2d5700dfefb273d55",
+            "BS58": "2ctBnkCw3D8DwHPaqqE6snG11Xk18TWCpaPhNS6LJas1ctV6Wo...",
+            "UINT8": "[80,245,241,180,109,234,99,204,5,6,26,239,206,43,107,253,93,101,8...",
+            "Addresses": {
+                "Addresses": {
+                    "address": "5cvnk1ecsWN75U4hTSt6yo8XdohUJuy2FKpUzQ6xbe24",
+                    "balance": "0 sol"
+                }
+            }
+        },
+        "46": {
+            "passphrase": "straightway",
+            "HEX": "ea7d50de2906d2a6319ed468abefc7a67f705eb4b404c68c359e7e7de971db42",
+            "BS58": "5gv6Pauv8HReRhM4HYzvopYGuCKus4ZbTmTu9ZMMFqDGErYXPH...",
+            "UINT8": "[234,125,80,222,41,6,210,166,49,158,212,104,171,239,199,166,127,1...",
+            "Addresses": {
+                "Addresses": {
+                    "address": "7KYQQTzZJEC6t85LTqdUh4LCThGzXcyRuWSSvT5kdcKS",
+                    "balance": "0 sol"
+                }
+            }
+        },
+        "47": {
+            "passphrase": "straining",
+            "HEX": "18f890b1cfdc5cd71241e785db764901c157cc1fdb66178237ede5a73c46845a",
+            "BS58": "VxUZAPg2eLW9232iWMCegaiYX1A3sszrGPdPtDyP1dS3sCZcha...",
+            "UINT8": "[24,248,144,177,207,220,92,215,18,65,231,133,219,118,73,1,193,87,...",
+            "Addresses": {
+                "Addresses": {
+                    "address": "6w7xH2Jcn8RE5mVDx2tWcLCUEiGt3gUtoNvB7vmprkDw",
+                    "balance": "0 sol"
+                }
+            }
+        },
+        "48": {
+            "passphrase": "strangeness",
+            "HEX": "5eec450ca059b7b4546152e29a703e66eed4bbe6af470d4b69e0e48fa7879c04",
+            "BS58": "2u5FAVPCmrFmtTMBuEDdZSytfQmyW25GkHs6T2YxBof1mH98pc...",
+            "UINT8": "[94,236,69,12,160,89,183,180,84,97,82,226,154,112,62,102,238,212,...",
+            "Addresses": {
+                "Addresses": {
+                    "address": "EBJDzJoxQXe96dMKsKWg5EHieNARgGivXkufFhCPRgxG",
+                    "balance": "0 sol"
+                }
+            }
+        },
+        "49": {
+            "passphrase": "strangers",
+            "HEX": "2755e99b6736e750c5e4b4a74e10c52d8364d1ea826ad6193d6bab7fc19195e3",
+            "BS58": "ncbmcNRGieRLASKrgbACjsC3RygE3EJdRdnK6CfFooqnGvL9VU...",
+            "UINT8": "[39,85,233,155,103,54,231,80,197,228,180,167,78,16,197,45,131,100...",
+            "Addresses": {
+                "Addresses": {
+                    "address": "5p9yTKRYnm9gvmpbpnv7sUr1ZcdVYZSeTr9t66EiWuJx",
+                    "balance": "0 sol"
+                }
+            }
+        },
+        "50": {
+            "passphrase": "strangest",
+            "HEX": "a97dce5a9935af5c94c868f5f641bfe5500178d6a5950cb2c3b01d269d624ed0",
+            "BS58": "4PYWTitC4Kv8tuozhhBPtzZZjfThEQiQpcSYrrH9kUQjTNEAVQ...",
+            "UINT8": "[169,125,206,90,153,53,175,92,148,200,104,245,246,65,191,229,80,1...",
+            "Addresses": {
+                "Addresses": {
+                    "address": "EjnvpTxnAXgHtetoa7QZXZShgVJdvspVxLSAddjdKpYB",
+                    "balance": "0 sol"
+                }
+            }
+        },
+        "51": {
+            "passphrase": "strangled",
+            "HEX": "26033e0830db3bda0f0e65c90702b7d64a9bab0803893a3de97c4bb5b533fa64",
+            "BS58": "m5d8cEYDWPV3jaMfgfoc7vsDVtmo1WyoafTQSnJ5ftaDZz4X5n...",
+            "UINT8": "[38,3,62,8,48,219,59,218,15,14,101,201,7,2,183,214,74,155,171,8,3...",
+            "Addresses": {
+                "Addresses": {
+                    "address": "2xGB1YxaFiXyTL149p9Lyw81ic3sP6TLqrqZBKvs1QcY",
+                    "balance": "0 sol"
+                }
+            }
+        },
+        "52": {
+            "passphrase": "stranglers",
+            "HEX": "9ddea7fba1c86bf32a7aa02707df0b5ccd53de7031fe2e7305bd1c9936567492",
+            "BS58": "4A4sHuxJdtLJjnbuNxkmufViSmCE76CwcLfgsGYbU29Z39P3Wx...",
+            "UINT8": "[157,222,167,251,161,200,107,243,42,122,160,39,7,223,11,92,205,83...",
+            "Addresses": {
+                "Addresses": {
+                    "address": "BsDcuqkE9kmjgUVbZzzRUXM2s4Zj344v1EtJRovDmxzP",
+                    "balance": "0 sol"
+                }
+            }
+        },
+        "53": {
+            "passphrase": "strangles",
+            "HEX": "03673accb43c19030ac78e73de37ac1cb874e16baeee36cdc9a226ffd20daef4",
+            "BS58": "4wtkUvzoqmV3o6uuoUAXBiXdVFjyhfFSUyWcw1WRk9uvZ42HRp...",
+            "UINT8": "[3,103,58,204,180,60,25,3,10,199,142,115,222,55,172,28,184,116,22...",
+            "Addresses": {
+                "Addresses": {
+                    "address": "HWyf1uGxozMnEFQ9wTQymHaXKGzqArVksLqiaAASQBfe",
+                    "balance": "0 sol"
+                }
+            }
+        },
+        "54": {
+            "passphrase": "strategies",
+            "HEX": "75e84f20cc44339e09c7c722d233f826cfcbf8aa6e13dbafd5162068a97250ac",
+            "BS58": "3Mj7q7Tx427ydFNChivWckuKSdr2rBZcbPPvYxWiCyPHUUAj6s...",
+            "UINT8": "[117,232,79,32,204,68,51,158,9,199,199,34,210,51,248,38,207,203,2...",
+            "Addresses": {
+                "Addresses": {
+                    "address": "CY33Hbub35iH15dyu2ARcKUWBk5ZRkkxurFRh96kYk9j",
+                    "balance": "0 sol"
+                }
+            }
+        },
+        "55": {
+            "passphrase": "stratification",
+            "HEX": "59403b24bf581ee1167827427da5664b5f3a580852ffc4cad4b1387f46984cda",
+            "BS58": "2nVm5YsR6BKPub7zf2afsBPpB2qFCMfp6RwfjgU1VDpQpXJ4o6...",
+            "UINT8": "[89,64,59,36,191,88,30,225,22,120,39,66,125,165,102,75,95,58,88,8...",
+            "Addresses": {
+                "Addresses": {
+                    "address": "7dqnBGvt18BLBz6REhNnz4AaoYKNVxf6Vu3zKyDGSPCx",
+                    "balance": "0 sol"
+                }
+            }
+        },
+        "56": {
+            "passphrase": "stratosphere",
+            "HEX": "8f101fb1c68d6b2fdaa78764427a95483e2ddceda18664b962aa2a7dade8f930",
+            "BS58": "3ru1NREFBMzjJjNDRstA47X6AVe1wXYwrrpvbhSeP1U5hujhsy...",
+            "UINT8": "[143,16,31,177,198,141,107,47,218,167,135,100,66,122,149,72,62,45...",
+            "Addresses": {
+                "Addresses": {
+                    "address": "831D2y1GswjPXTPwC2P9FgCwV7xZ3sC89spUCRy1K8jD",
+                    "balance": "0 sol"
+                }
+            }
+        },
+        "57": {
+            "passphrase": "stratospheric",
+            "HEX": "ac149e4a70dee081bf974f5d0ae446b93e9f133d3452553a7830f7b6c6b14bfc",
+            "BS58": "4SYeMiMA3ou9VeuczE6d213h6L2ir9e7tDYigQfHvxmEdk8YvX...",
+            "UINT8": "[172,20,158,74,112,222,224,129,191,151,79,93,10,228,70,185,62,159...",
+            "Addresses": {
+                "Addresses": {
+                    "address": "9H4noGyD2J6CthsAM8tF8ZjwvXUYKwfq4MtXaSrKbf2W",
+                    "balance": "0 sol"
+                }
+            }
+        },
+        "58": {
+            "passphrase": "strawberries",
+            "HEX": "1ff0938846474bffb82fe6f107422337fd051c1191c9cc3584854fbb1501b276",
+            "BS58": "e3BDZa4v2QYMGDLxECtkU3gtEbaAbdYyn5cx7Nq17HZw53ZsBm...",
+            "UINT8": "[31,240,147,136,70,71,75,255,184,47,230,241,7,66,35,55,253,5,28,1...",
+            "Addresses": {
+                "Addresses": {
+                    "address": "AnEohe1Zd3sqYpxpzLF5cU75Bxw21C5HFheupT74BJR8",
+                    "balance": "0 sol"
+                }
+            }
+        },
+        "59": {
+            "passphrase": "streaming",
+            "HEX": "b304adc33719d6cddb96d6c4f1aa46628d927547b49b70c981c7fea953e0600a",
+            "BS58": "4abFsKkZY3xqbJJgFyNfUgKGY211i7UmYXsoV7CNRxcRe6V7r2...",
+            "UINT8": "[179,4,173,195,55,25,214,205,219,150,214,196,241,170,70,98,141,14...",
+            "Addresses": {
+                "Addresses": {
+                    "address": "DvpsPKu15AX7npCXmxAScMrgEo4v66P1CNQudqyBLRds",
+                    "balance": "0 sol"
+                }
+            }
+        }
+    }
+}
