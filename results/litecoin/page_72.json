@@ -1,0 +1,1892 @@
+{
+    "tables": {
+        "1": {
+            "passphrase": "claimable",
+            "HEX": "c0acd3ac04b3517b2826220cd2a4d4fc4e566469c08f5943849464798f79a2a8",
+            "WIF(c)": "T9WWfuU1hZKpjrNYJ54if1m1JHwENakqMX7HDwb2XXW7qiAdFbmT",
+            "WIF(u)": "6vasgB5JqA8tbdZXCa6NfyMr1HyhBnFv6ZCPhzgRpFAKKPbeRxr",
+            "Addresses": {
+                "P2PKH(c)": {
+                    "address": "LLx3rAtEfuXt1hCPwYEhcbMWrHyL8g5tdr",
+                    "balance": "0",
+                    "tx": "0",
+                    "recv": "0"
+                },
+                "P2SH(c)": {
+                    "address": "MA71rkfTjDyYavzZyQ33YqugRbEj6NKSHj",
+                    "balance": "0",
+                    "tx": "0",
+                    "recv": "0"
+                },
+                "BECH32(c)": {
+                    "address": "ltc1qzthyyw43h9hxc6wdzl6rmn4gk9n0ejxm5rs0rd",
+                    "balance": "0",
+                    "tx": "0",
+                    "recv": "0"
+                },
+                "P2PKH(u)": {
+                    "address": "LQfwMqctoM9dtJNLLj48T4NoEpnGYUbGrz",
+                    "balance": "0",
+                    "tx": "0",
+                    "recv": "0"
+                }
+            }
+        },
+        "2": {
+            "passphrase": "claimants",
+            "HEX": "d9b1fe39e950ea353ff707d80597ffbc8a91add3e198c5cc4ccb83721716c403",
+            "WIF(c)": "TAM9ZHCJsy1Tvarwuo971qP768p3iowoxX5zb59i5cLr1VUJBKky",
+            "WIF(u)": "6vmtnNo4bf4jMJBs3u9BRf9diwnYtAH3Uz7Zz7Nuooyc81zBMLk",
+            "Addresses": {
+                "P2PKH(c)": {
+                    "address": "LZHzSXAbfM43WQzJwTT1mLdRrsxGev3r13",
+                    "balance": "0",
+                    "tx": "0",
+                    "recv": "0"
+                },
+                "P2SH(c)": {
+                    "address": "MJj8Zragdpuc7nXkgU8SSebbGbdj7Gk9t5",
+                    "balance": "0",
+                    "tx": "0",
+                    "recv": "0"
+                },
+                "BECH32(c)": {
+                    "address": "ltc1qnf2nuggp5vj83e0u9zjrk7cjq9xlvnk3457cc2",
+                    "balance": "0",
+                    "tx": "0",
+                    "recv": "0"
+                },
+                "P2PKH(u)": {
+                    "address": "LMbidtVoc139rZikY3K2QHxq81HB2wV7dt",
+                    "balance": "0",
+                    "tx": "0",
+                    "recv": "0"
+                }
+            }
+        },
+        "3": {
+            "passphrase": "clairvoyant",
+            "HEX": "5675429146bf089f258c08ff752913827cacbf0e86d7252b1a9fc75eb19cb430",
+            "WIF(c)": "T5x3Hps9heh51ihgeemt6KqFHf8MCXEvevqbvoA6kru3ocMeNsPj",
+            "WIF(u)": "6un6WBqyM5v2pHhV1pyqjSZgVF5PFPiDcKzgdf6gpYhLfm9msoS",
+            "Addresses": {
+                "P2PKH(c)": {
+                    "address": "LKt712w28iCffYD37KQAgqJX5tiMDUMexW",
+                    "balance": "0",
+                    "tx": "0",
+                    "recv": "0"
+                },
+                "P2SH(c)": {
+                    "address": "M8BRGBjhzDS419c8GQZy3TeEHp9abAPeF8",
+                    "balance": "0",
+                    "tx": "0",
+                    "recv": "0"
+                },
+                "BECH32(c)": {
+                    "address": "ltc1qqum3n4f0kl7cla58mflxxvuaf8qzwp7nqkmsgh",
+                    "balance": "0",
+                    "tx": "0",
+                    "recv": "0"
+                },
+                "P2PKH(u)": {
+                    "address": "LR9w2iDwr4CM7mBcyrCVanXXhdsUUtdWzy",
+                    "balance": "0",
+                    "tx": "0",
+                    "recv": "0"
+                }
+            }
+        },
+        "4": {
+            "passphrase": "clairvoyantly",
+            "HEX": "96527e7c2d7972002d3abb6f6b87aa86c34b399d7ef5a7dad68904b32e11daff",
+            "WIF(c)": "T86Bd4qWiopyP5N7Nxm1gQf3tWAgL67cmrvR1ey1uyx2PWQRMAmz",
+            "WIF(u)": "6vGDq3gYCjnJkyGf9bqVFNDhXhbN9QMz3TiZB7nmcZqiYugcpUi",
+            "Addresses": {
+                "P2PKH(c)": {
+                    "address": "LWoU3jzgz1QXaLGaTLqUYnWpdPK7eTGJHi",
+                    "balance": "0",
+                    "tx": "0",
+                    "recv": "0"
+                },
+                "P2SH(c)": {
+                    "address": "MDkEninqAzqBGobhBch2ftL8z2NyZowd9k",
+                    "balance": "0",
+                    "tx": "0",
+                    "recv": "0"
+                },
+                "BECH32(c)": {
+                    "address": "ltc1q0mllj046vfmu4kkn6r3jdu8u9naz7mjl60q39z",
+                    "balance": "0",
+                    "tx": "0",
+                    "recv": "0"
+                },
+                "P2PKH(u)": {
+                    "address": "LULbn4rPRDktmeBv9bdrYmEsPXNLZU1Aqg",
+                    "balance": "0",
+                    "tx": "0",
+                    "recv": "0"
+                }
+            }
+        },
+        "5": {
+            "passphrase": "clambered",
+            "HEX": "255f26201f4f8560d6ca5ee5a38228ec349cb09f091f36dd87641b5caa55ff08",
+            "WIF(c)": "T4Jd5PCHzMAfeJKu9HNT8tdRCBNiiFhqaGwe2Q3tEPG76MXQMj6m",
+            "WIF(u)": "6uQUf9euLLXHTaNxKBxcNj4GT6XJ9tpKFnkePX9Mfq6EcjjHUuU",
+            "Addresses": {
+                "P2PKH(c)": {
+                    "address": "LWFuTtzfwm4Z64s7bxu4vJmbxiU1ZxfDo2",
+                    "balance": "0",
+                    "tx": "0",
+                    "recv": "0"
+                },
+                "P2SH(c)": {
+                    "address": "MUCse5S82ZmBFzEKsbiarjqSYL1Qd1QhW9",
+                    "balance": "0",
+                    "tx": "0",
+                    "recv": "0"
+                },
+                "BECH32(c)": {
+                    "address": "ltc1q0yr7zg40wy33nlmc5pw9efamdagjdsgpnr6q66",
+                    "balance": "0",
+                    "tx": "0",
+                    "recv": "0"
+                },
+                "P2PKH(u)": {
+                    "address": "LPf7PAvXJQKcNrAW2vWVxdHeSPZG9UyG27",
+                    "balance": "0",
+                    "tx": "0",
+                    "recv": "0"
+                }
+            }
+        },
+        "6": {
+            "passphrase": "clambering",
+            "HEX": "43eb71fa1f48a38bb73afedb319d26e23aceeb7604c2437214e5ad6c526a48dd",
+            "WIF(c)": "T5L1CMdAqx1sG7mocTumFBf9AdUk1yAKH4rtPzcDunMJiw1vQ12H",
+            "WIF(u)": "6udvy3Qbrc7zc9LDNdTTLXWV8cuWEMt3nKzyWE3zkgGvrtg8TmL",
+            "Addresses": {
+                "P2PKH(c)": {
+                    "address": "LbAosphEWS1JEtnbBDs857nj8c3RAKhNjW",
+                    "balance": "0",
+                    "tx": "0",
+                    "recv": "0"
+                },
+                "P2SH(c)": {
+                    "address": "MD5eE8vYH8QYqT9mkESmsQZaLzrU5iRmYQ",
+                    "balance": "0",
+                    "tx": "0",
+                    "recv": "0"
+                },
+                "BECH32(c)": {
+                    "address": "ltc1q4m5u8tzgdgzj3ksum0flm0zx9gpntqqgvpntem",
+                    "balance": "0",
+                    "tx": "0",
+                    "recv": "0"
+                },
+                "P2PKH(u)": {
+                    "address": "LaoiFjNG9S39E6eoEbFfDuHwycGxCpskom",
+                    "balance": "0",
+                    "tx": "0",
+                    "recv": "0"
+                }
+            }
+        },
+        "7": {
+            "passphrase": "clamoring",
+            "HEX": "9ae8a1343c4fe0bcc8c74a67d7b26d0f6c481f21f9ef8c9b6c6f5c31455aa578",
+            "WIF(c)": "T8F6inWpf1yoaaTXGCwhjLQ9APWmkxhefkNTqaBwbuPw4wvSpCEb",
+            "WIF(u)": "6vJEz3cJbSbcvpugUv1AEDYygHRsUBMYC3aQkdX7w8LhLxSRJPD",
+            "Addresses": {
+                "P2PKH(c)": {
+                    "address": "LU8JcjRm3otK4qp4j7TUzhb13uf1Z9JGT8",
+                    "balance": "0",
+                    "tx": "0",
+                    "recv": "0"
+                },
+                "P2SH(c)": {
+                    "address": "MA57fWo1ZA5eRwFkgRWUKaFHrSiJ1djXR5",
+                    "balance": "0",
+                    "tx": "0",
+                    "recv": "0"
+                },
+                "BECH32(c)": {
+                    "address": "ltc1qvxn6quumlk7x69t3hsnnypx06f4zx9gnqfd5fe",
+                    "balance": "0",
+                    "tx": "0",
+                    "recv": "0"
+                },
+                "P2PKH(u)": {
+                    "address": "LZk4YfoQBkUrjrwEW1EfPSAQBgJSWoG7ew",
+                    "balance": "0",
+                    "tx": "0",
+                    "recv": "0"
+                }
+            }
+        },
+        "8": {
+            "passphrase": "clamorous",
+            "HEX": "08eae2160dc12115af28fc82ca808844d0d18591625d45571f78208450a56424",
+            "WIF(c)": "T3MK2bDKsYwqgXsYRf2Uuvwu6wnxfrRcXCUX63d1YW9KsDx4g2GB",
+            "WIF(u)": "6uBwqPhrb7LDqqEGH1Tcn54q4AF3C4wy5aQuamYip1iJsSLiJid",
+            "Addresses": {
+                "P2PKH(c)": {
+                    "address": "LbNA76NmvuRyxk8zfaJXhAGKnS1LLJYfYe",
+                    "balance": "0",
+                    "tx": "0",
+                    "recv": "0"
+                },
+                "P2SH(c)": {
+                    "address": "MEULpVijnvCLJvnCo8dEBMFWa42h7qQB7n",
+                    "balance": "0",
+                    "tx": "0",
+                    "recv": "0"
+                },
+                "BECH32(c)": {
+                    "address": "ltc1qky8nnczvxt35syxjwm6h6pvecmvnys75wfeutl",
+                    "balance": "0",
+                    "tx": "0",
+                    "recv": "0"
+                },
+                "P2PKH(u)": {
+                    "address": "LTwBjJfYaGM3BGpsLZnUdeTMfQhWEdPSLg",
+                    "balance": "0",
+                    "tx": "0",
+                    "recv": "0"
+                }
+            }
+        },
+        "9": {
+            "passphrase": "clandestine",
+            "HEX": "0aa60d9763d1a050b54ab22f24b21da82069c284e10caa374f01a2427ea0caea",
+            "WIF(c)": "T3QgCmjUvhgJ4Y1p75Eo5yYvsuNnFfiYiuntGFHxGZT9JrtZUP34",
+            "WIF(u)": "6uCi47xqvQGFHfHx5Ymp9NsjZq7kLBat98tBFnNy2G4CrTm3zp9",
+            "Addresses": {
+                "P2PKH(c)": {
+                    "address": "LMVPXXSHko6ZKu6kEFZTLNcDMrLQ6qdxzY",
+                    "balance": "0",
+                    "tx": "0",
+                    "recv": "0"
+                },
+                "P2SH(c)": {
+                    "address": "MKbBPMTTHUEWj8ckZePkV3A63y7dqfTruf",
+                    "balance": "0",
+                    "tx": "0",
+                    "recv": "0"
+                },
+                "BECH32(c)": {
+                    "address": "ltc1qrrdefyz6ypfkjz7n42uhlf7z4fm6n2c0env5sy",
+                    "balance": "0",
+                    "tx": "0",
+                    "recv": "0"
+                },
+                "P2PKH(u)": {
+                    "address": "LSbjAZmiX5Cz2y6NcdtZw4Aug1d6UNm46G",
+                    "balance": "0",
+                    "tx": "0",
+                    "recv": "0"
+                }
+            }
+        },
+        "10": {
+            "passphrase": "clapboard",
+            "HEX": "6f057b1efeab6121055bc821789bd32ed2894ea44ef0d6a0149dd3469ac4fe12",
+            "WIF(c)": "T6mnfzMF6j56negU3txSD4yAz89W3gEoAExRs9rLVYKth6432Ubn",
+            "WIF(u)": "6uxuwbk6uxJEzvPzLEarfXoiEPv8VFKz8XoYTmbjw3Zpxrh5vGN",
+            "Addresses": {
+                "P2PKH(c)": {
+                    "address": "LNve6Xe5SqMcHQ7obRfdVGZSctpmWZ1Gsf",
+                    "balance": "0",
+                    "tx": "0",
+                    "recv": "0"
+                },
+                "P2SH(c)": {
+                    "address": "MJ9RUwDLS3nmEqebKjq1uGYdSAPmkUEMEG",
+                    "balance": "0",
+                    "tx": "0",
+                    "recv": "0"
+                },
+                "BECH32(c)": {
+                    "address": "ltc1q9zdygjk0uxyat0tccdhcgwcsz4pmyrjnd6armw",
+                    "balance": "0",
+                    "tx": "0",
+                    "recv": "0"
+                },
+                "P2PKH(u)": {
+                    "address": "LSJk4try3oXsf2MaoGqzy8W6jPKKmoxAF9",
+                    "balance": "0",
+                    "tx": "0",
+                    "recv": "0"
+                }
+            }
+        },
+        "11": {
+            "passphrase": "clarification",
+            "HEX": "e2f97782f9dbe89f277996e11dd8cb0a97ff66a7c16c072ca5abb8529c3461b7",
+            "WIF(c)": "TAfBjZyP4kEyNe8XWtKGDEWEEWNUFV87iDyDE3TrJjuv6KTRQUAV",
+            "WIF(u)": "6vqyooSTkSf4FsZ4k2Cqm1LmEUxAM3kJP2aaamWeTDts6KZXUEm",
+            "Addresses": {
+                "P2PKH(c)": {
+                    "address": "LabztEpiQRuW5WM2mVFrfwfzawF2DXP2Bc",
+                    "balance": "0",
+                    "tx": "0",
+                    "recv": "0"
+                },
+                "P2SH(c)": {
+                    "address": "MDGhwV2zgc4VvRswGGQ61Xouo74Sk54Yp6",
+                    "balance": "0",
+                    "tx": "0",
+                    "recv": "0"
+                },
+                "BECH32(c)": {
+                    "address": "ltc1q4z6nn4kgjv5d8hr9y9d9ttdhux0k7hvhfu9dh3",
+                    "balance": "0",
+                    "tx": "0",
+                    "recv": "0"
+                },
+                "P2PKH(u)": {
+                    "address": "LdofFhW7yQAtfBZ9rLx1rgKM7jyUSmo1jf",
+                    "balance": "0",
+                    "tx": "0",
+                    "recv": "0"
+                }
+            }
+        },
+        "12": {
+            "passphrase": "clarifications",
+            "HEX": "3f7c233418333007abadc1528cdbb80225b49a273d2cd773903a36d282e125c8",
+            "WIF(c)": "T5BPCSkFss5MRCMBvauoiPj42XHED23ZN3zCsMXuqf6hs9WXNDCo",
+            "WIF(u)": "6ubygkSfG9dL8J581Mpm7fE9qq6VNJTQePt2L7TwZmt8uA3JqUm",
+            "Addresses": {
+                "P2PKH(c)": {
+                    "address": "LY6T81AYFXEy5oiasHA8NYL1ffXbVDQ4HB",
+                    "balance": "0",
+                    "tx": "0",
+                    "recv": "0"
+                },
+                "P2SH(c)": {
+                    "address": "MBnWAHKvyu2aXKvYm8BmyDFhWBa5bgTJS4",
+                    "balance": "0",
+                    "tx": "0",
+                    "recv": "0"
+                },
+                "BECH32(c)": {
+                    "address": "ltc1q35hxtdha0su0c7mk3s2hg2nv4vk8ee820m550u",
+                    "balance": "0",
+                    "tx": "0",
+                    "recv": "0"
+                },
+                "P2PKH(u)": {
+                    "address": "LYam38hRSeruA4qw9TDXTQepsdPieGKcpS",
+                    "balance": "0",
+                    "tx": "0",
+                    "recv": "0"
+                }
+            }
+        },
+        "13": {
+            "passphrase": "clarified",
+            "HEX": "7c0b540c82366ec4278d0668241e0dd05b5baa0b2e939cf0c4ebcd619b9cb4c8",
+            "WIF(c)": "T7D6veSJddq1By6NPfWBZs7itmvP1JkQtzHsvG7sWsiV67DSGtYM",
+            "WIF(u)": "6v4ebMiXjHW13V7evcuqAFyoeZP4dKXE7o4NWHZphJP61GU4zKF",
+            "Addresses": {
+                "P2PKH(c)": {
+                    "address": "LaJ4j1fgKmr1DwSJW9JQEeqEN9zuaYLRJi",
+                    "balance": "0",
+                    "tx": "0",
+                    "recv": "0"
+                },
+                "P2SH(c)": {
+                    "address": "MNgDhhoUDqD43VUwy1cHrPioDgPhk5ZK6R",
+                    "balance": "0",
+                    "tx": "0",
+                    "recv": "0"
+                },
+                "BECH32(c)": {
+                    "address": "ltc1q54g0rc32k6ehlems2jt8nxn2kyyanjj0cselfn",
+                    "balance": "0",
+                    "tx": "0",
+                    "recv": "0"
+                },
+                "P2PKH(u)": {
+                    "address": "LPSS6kcYq7aUR1rjz96FbrJuERYn78jcAC",
+                    "balance": "0",
+                    "tx": "0",
+                    "recv": "0"
+                }
+            }
+        },
+        "14": {
+            "passphrase": "clarifies",
+            "HEX": "ce755de88934aeb67feaa87d187697d6304fe02ae5969e3195a81dc3f3136f18",
+            "WIF(c)": "T9yJfivERPqmbqnmqgCoCj7dNXhUjfzZxYPASCfzU12o7SRKL3bc",
+            "WIF(u)": "6vgwkfVpuCX5fhxgcVpXrnLdLNufuiTdvNA6mE4rGdiBuEVh9qk",
+            "Addresses": {
+                "P2PKH(c)": {
+                    "address": "LgJALvHqDbbUuzco5LLjm57ZfwTNisSA2e",
+                    "balance": "0",
+                    "tx": "0",
+                    "recv": "0"
+                },
+                "P2SH(c)": {
+                    "address": "MFYUT8xSygSWRQg1zC1beSTPZHn9RWjRky",
+                    "balance": "0",
+                    "tx": "0",
+                    "recv": "0"
+                },
+                "BECH32(c)": {
+                    "address": "ltc1quunx8czt9gqgnqfx2z8uqalptfzh3pr4tkl9jh",
+                    "balance": "0",
+                    "tx": "0",
+                    "recv": "0"
+                },
+                "P2PKH(u)": {
+                    "address": "Lf4qeigVbBpQsH46b3Sw6FoVTferW4nHkX",
+                    "balance": "0",
+                    "tx": "0",
+                    "recv": "0"
+                }
+            }
+        },
+        "15": {
+            "passphrase": "clarifying",
+            "HEX": "63e7e5adc693540cfe643c66542ea7b30c8e8f6cce546e6f21ae2198d0b8f929",
+            "WIF(c)": "T6QBTNWVAuynxBzDYKgzS1Gw42eT5LN8wTFDJzTQNx2MePY6UNce",
+            "WIF(u)": "6ut21Y9wsH5iDxWGywXozmvTHzvLxMhayHpdKaQevTWm6pmYTUU",
+            "Addresses": {
+                "P2PKH(c)": {
+                    "address": "LSCQXfSk8qivJ5Jmdga6Bqe5JNb2h4UeKK",
+                    "balance": "0",
+                    "tx": "0",
+                    "recv": "0"
+                },
+                "P2SH(c)": {
+                    "address": "M8eZmgUufQaWuSHSuskm4ojTWMQJt1otVL",
+                    "balance": "0",
+                    "tx": "0",
+                    "recv": "0"
+                },
+                "BECH32(c)": {
+                    "address": "ltc1qf37lnqs4w5mpgj5lp6wpz2s6390lccccfsa72s",
+                    "balance": "0",
+                    "tx": "0",
+                    "recv": "0"
+                },
+                "P2PKH(u)": {
+                    "address": "LXLxqVBEVDUw8AApa9A9iFhr9bbvFZcvHD",
+                    "balance": "0",
+                    "tx": "0",
+                    "recv": "0"
+                }
+            }
+        },
+        "16": {
+            "passphrase": "classical",
+            "HEX": "25d9548a80c751e282183876990e49a6eb3c1ac94a28fa86c5b513019bf8cba6",
+            "WIF(c)": "T4KYtLjetnRw9ZkckntwsDFPoytB2xEswbECbLW2xKjUY8eWwj1C",
+            "WIF(u)": "6uQgrEzF2JzkzDrku4bswsom8vfnKZuY2Vbi9EUsjtpgmgtA7EL",
+            "Addresses": {
+                "P2PKH(c)": {
+                    "address": "LdrQCDV1jEvvAyZcrVxr6y7hLcpDMaMEJ2",
+                    "balance": "0",
+                    "tx": "0",
+                    "recv": "0"
+                },
+                "P2SH(c)": {
+                    "address": "MH8pACN39wwF5zD8VDWsqAzmgotYK3cTa9",
+                    "balance": "0",
+                    "tx": "0",
+                    "recv": "0"
+                },
+                "BECH32(c)": {
+                    "address": "ltc1qe3tw9zds0a06zyagtyy0xlcsmw66439naqxhry",
+                    "balance": "0",
+                    "tx": "0",
+                    "recv": "0"
+                },
+                "P2PKH(u)": {
+                    "address": "LMWHsJiDy9J8wtAm7R27P1gf2sEEppagZa",
+                    "balance": "0",
+                    "tx": "0",
+                    "recv": "0"
+                }
+            }
+        },
+        "17": {
+            "passphrase": "classically",
+            "HEX": "338ed1f73c19910c822ed467f171bbcd50f17fa550c86ba8fceea738a423c358",
+            "WIF(c)": "T4nCVYw5ZwuUV66ek1aytSSL3a9Y5jyHTjQTbRSHTp83SkSawZbd",
+            "WIF(u)": "6uWj2V5Yr9pEUfK3fHu76JzrB6hT5FGUHw1nSvZv7yttkwf4KgS",
+            "Addresses": {
+                "P2PKH(c)": {
+                    "address": "LLPheUyq2nxJZnpka4muY5NnJTDAhFX7y6",
+                    "balance": "0",
+                    "tx": "0",
+                    "recv": "0"
+                },
+                "P2SH(c)": {
+                    "address": "MPuzUvCSJTpz3fyMHEPEfvuFaA5wEc51jT",
+                    "balance": "0",
+                    "tx": "0",
+                    "recv": "0"
+                },
+                "BECH32(c)": {
+                    "address": "ltc1qpngptf2dmhhhcwm78smsykxeznmzlvxp3j4nwy",
+                    "balance": "0",
+                    "tx": "0",
+                    "recv": "0"
+                },
+                "P2PKH(u)": {
+                    "address": "LNpn3LVwjDn4y7m82vkdcnurrz6GXiZCEz",
+                    "balance": "0",
+                    "tx": "0",
+                    "recv": "0"
+                }
+            }
+        },
+        "18": {
+            "passphrase": "classifiable",
+            "HEX": "f28ec5d260bafa75892b262d68eb892676436aa341caea633935eadcf2c6b481",
+            "WIF(c)": "TBBUf2wZgB3SduQuZczTiHnVQNVTtN1BETG78E4KZc3gGntHR2W2",
+            "WIF(u)": "6vxqrrNsuNm46ByAeJDZnc4xptYNVrcqY9DV85KRbaKH9af1ssT",
+            "Addresses": {
+                "P2PKH(c)": {
+                    "address": "LQ1a9i6FzsD4Z5zMzWfxDoZ3xUyK7SfSm3",
+                    "balance": "0",
+                    "tx": "0",
+                    "recv": "0"
+                },
+                "P2SH(c)": {
+                    "address": "MEBGoF755JZ1T5icN4i52JaiaYDu3JJ6WF",
+                    "balance": "0",
+                    "tx": "0",
+                    "recv": "0"
+                },
+                "BECH32(c)": {
+                    "address": "ltc1qxjqjmk27pum369zdztuxsrj750ug28c800ds8g",
+                    "balance": "0",
+                    "tx": "0",
+                    "recv": "0"
+                },
+                "P2PKH(u)": {
+                    "address": "LZqV8b4Q5gd8fbHAF7xci3tdqzxTqWmRsE",
+                    "balance": "0",
+                    "tx": "0",
+                    "recv": "0"
+                }
+            }
+        },
+        "19": {
+            "passphrase": "classification",
+            "HEX": "9f0c8aa526579f4dbde02f70f4cdf635a22df7d844ce012de5791febea95e732",
+            "WIF(c)": "T8P9Wp3dv3rf4uWk2PArrWbehJVsg9pE83R7hJs71grD6x3wXTNh",
+            "WIF(u)": "6vL4k1EjoTUZe8pX91woBmKGnqNVhbAo29FXWycNJNiWUfJNAh6",
+            "Addresses": {
+                "P2PKH(c)": {
+                    "address": "LSNbdifgtV3rfEhk6qRPWhzqHUALXx8D2z",
+                    "balance": "0",
+                    "tx": "0",
+                    "recv": "0"
+                },
+                "P2SH(c)": {
+                    "address": "M89GtJETBPkGQ83j5VTapg7qXxqY7dAaCH",
+                    "balance": "0",
+                    "tx": "0",
+                    "recv": "0"
+                },
+                "BECH32(c)": {
+                    "address": "ltc1qfe4kwhp4xg3dvaumxhu788vg5re4nav357n4nf",
+                    "balance": "0",
+                    "tx": "0",
+                    "recv": "0"
+                },
+                "P2PKH(u)": {
+                    "address": "Lg22VRaWY2x1GsSe5yYstpNiFfh44R6y37",
+                    "balance": "0",
+                    "tx": "0",
+                    "recv": "0"
+                }
+            }
+        },
+        "20": {
+            "passphrase": "classifications",
+            "HEX": "8c71ff76e316bd16a7897554a0f2a94b2ddea002c5a83739be6368b7c0e8923a",
+            "WIF(c)": "T7kz42Szk154JhY5epHRNjCRDoufr7Z8gyXMbfhzVbFbwwAPHGiV",
+            "WIF(u)": "6vBsY3bSKMQaNgYWbrEEgMtXQkFeoUK9zYPHSyoSiNMXaMyYinJ",
+            "Addresses": {
+                "P2PKH(c)": {
+                    "address": "LSzdupQWFgybSqZFCV7hA4sH2qwENrK5AC",
+                    "balance": "0",
+                    "tx": "0",
+                    "recv": "0"
+                },
+                "P2SH(c)": {
+                    "address": "MNnqYj1SohQfXtZAc81Uv8nV6Mru8KUFo4",
+                    "balance": "0",
+                    "tx": "0",
+                    "recv": "0"
+                },
+                "BECH32(c)": {
+                    "address": "ltc1q257y0ymgkxelatx3aecnhexfkvhx6tr8strggn",
+                    "balance": "0",
+                    "tx": "0",
+                    "recv": "0"
+                },
+                "P2PKH(u)": {
+                    "address": "LWdYpYQLQggDBTVyQaQZEQ9qGcyV2BD3n8",
+                    "balance": "0",
+                    "tx": "0",
+                    "recv": "0"
+                }
+            }
+        },
+        "21": {
+            "passphrase": "classified",
+            "HEX": "24626cb1dc15eb7572c6a321d5663592c60f7926c9386e8a464e75178e4e9215",
+            "WIF(c)": "T4Ghmsxhb6gCv6RtFM8gP7DEitk3w5U6amC6H861Cb1moKm11pLr",
+            "WIF(u)": "6uQ3SaJ9k51GqjTwCrsgHLXsEa29NKEPZa83ZCaJibSYuEXFz8r",
+            "Addresses": {
+                "P2PKH(c)": {
+                    "address": "La5uMTLC7JTHNqqJpr3pkvQ5BVpefEpHP9",
+                    "balance": "0",
+                    "tx": "0",
+                    "recv": "0"
+                },
+                "P2SH(c)": {
+                    "address": "MArYa6yaptLRdVNbQGEEy1ZmCxuaHsx5x6",
+                    "balance": "0",
+                    "tx": "0",
+                    "recv": "0"
+                },
+                "BECH32(c)": {
+                    "address": "ltc1q5vzzz4kytwpsjz67zk69tfr8gv2tkl7y6358na",
+                    "balance": "0",
+                    "tx": "0",
+                    "recv": "0"
+                },
+                "P2PKH(u)": {
+                    "address": "LiHgDJMLf2TX4xCWLVsj8Hqgc1cptjEjCk",
+                    "balance": "0",
+                    "tx": "0",
+                    "recv": "0"
+                }
+            }
+        },
+        "22": {
+            "passphrase": "classifier",
+            "HEX": "fe1991a9d8b6abd7ff7c58d5e22b4538a75dadae9f33dcca784e7a87c2d0f6ae",
+            "WIF(c)": "TBZuyLcJB1hpbeZspKC27b1XBSkjeEwKh6jeRPo5Nb8f7YTpsk4w",
+            "WIF(u)": "6w3vgxCAnKHVui8uJ4fkJMPmuDBMzNjffzVEv756XGSJFCxRYLt",
+            "Addresses": {
+                "P2PKH(c)": {
+                    "address": "LSqhaaJN6ZnUS1EuV7co7T3Hi2SRee1GrT",
+                    "balance": "0",
+                    "tx": "0",
+                    "recv": "0"
+                },
+                "P2SH(c)": {
+                    "address": "M8YsTgv9FquubkarmgwqYwBVmmYYJ92ZL3",
+                    "balance": "0",
+                    "tx": "0",
+                    "recv": "0"
+                },
+                "BECH32(c)": {
+                    "address": "ltc1q2w9ej9mxry5scrhvkwch6we5remz6pnh4l2leg",
+                    "balance": "0",
+                    "tx": "0",
+                    "recv": "0"
+                },
+                "P2PKH(u)": {
+                    "address": "LiBLhPUmuTwaJHQczF9EnPN4KcdQhiCrnb",
+                    "balance": "0",
+                    "tx": "0",
+                    "recv": "0"
+                }
+            }
+        },
+        "23": {
+            "passphrase": "classifiers",
+            "HEX": "4567d7082f00fc3cfd62a4eaba3df80e980dc287ace22044f3748e9d72f465c9",
+            "WIF(c)": "T5Ntj2fwekx6EoKYTdL8sL4KHSaXrTQvLZj2uVvhtqAc4RqZZ46U",
+            "WIF(u)": "6ueavUZqdebghjfe2xMeac8YnQvN39FUwjJgQDu3U9eX9aPn5BC",
+            "Addresses": {
+                "P2PKH(c)": {
+                    "address": "Lb9SAqd1o5Br5CxJxVknnKEsgKqEpGPwNt",
+                    "balance": "0",
+                    "tx": "0",
+                    "recv": "0"
+                },
+                "P2SH(c)": {
+                    "address": "MH3i2BZNPVkeeWmWfKoFNJUiwc4TS3PDo6",
+                    "balance": "0",
+                    "tx": "0",
+                    "recv": "0"
+                },
+                "BECH32(c)": {
+                    "address": "ltc1q46nn4pjzc4sknnwm6xvyae6lawd08vj52l2mn8",
+                    "balance": "0",
+                    "tx": "0",
+                    "recv": "0"
+                },
+                "P2PKH(u)": {
+                    "address": "LQckrU44Rx6tJsAck5txz5x1Zufq2F2xU2",
+                    "balance": "0",
+                    "tx": "0",
+                    "recv": "0"
+                }
+            }
+        },
+        "24": {
+            "passphrase": "classifies",
+            "HEX": "b7b7e8ce2f7c3b4d74ebdda354f0e20ce3119b47e87ea7cdc2668e21e632dea2",
+            "WIF(c)": "T9D6rQY953zPUULWKkLz62erSUSaweUGsr1UF15rbjtN1Rk8copt",
+            "WIF(u)": "6vWvtXFkyCZ2vMEwDrhKpp3gkP5SMzRkvfHsaXqE3tQRFAb4anj",
+            "Addresses": {
+                "P2PKH(c)": {
+                    "address": "LYvhRx6zSWs9YwbwnhZVAiHxTZnEz6Me77",
+                    "balance": "0",
+                    "tx": "0",
+                    "recv": "0"
+                },
+                "P2SH(c)": {
+                    "address": "MBjnitAT75FXAT3Zxk5tihVRfRZZhANwf6",
+                    "balance": "0",
+                    "tx": "0",
+                    "recv": "0"
+                },
+                "BECH32(c)": {
+                    "address": "ltc1qje8yauuskwnhhs0fh5auqnua4tevn92c6utgk5",
+                    "balance": "0",
+                    "tx": "0",
+                    "recv": "0"
+                },
+                "P2PKH(u)": {
+                    "address": "LSyt34zGhf9unJHfxswqrpw8rT1pwzfG96",
+                    "balance": "0",
+                    "tx": "0",
+                    "recv": "0"
+                }
+            }
+        },
+        "25": {
+            "passphrase": "classifying",
+            "HEX": "f05f43afb1b280dd2d0bb181c427e6b95028e3d8218981786f037b9a9a2717ef",
+            "WIF(c)": "TB7EF9LnJSu3NqZgxcuo2EvmVLwHPPQnPUmFVJhxuxQGggLJkcSN",
+            "WIF(u)": "6vwt2r1rgkUehHtp7iDR2Brnsq1yGwvRL96wwSmAx3apWUNiRcT",
+            "Addresses": {
+                "P2PKH(c)": {
+                    "address": "LMAyjuVovnFzLm6r8THxA8jCoMk34jjVHq",
+                    "balance": "0",
+                    "tx": "0",
+                    "recv": "0"
+                },
+                "P2SH(c)": {
+                    "address": "MAmJHczRe6sLVFjtRHGHKqoDV4J2kp9EeD",
+                    "balance": "0",
+                    "tx": "0",
+                    "recv": "0"
+                },
+                "BECH32(c)": {
+                    "address": "ltc1qz4sretrleptkr03d04hr4kym9p9zau8yhyjlwk",
+                    "balance": "0",
+                    "tx": "0",
+                    "recv": "0"
+                },
+                "P2PKH(u)": {
+                    "address": "Lg1PmeagftaCcpGUgth9rterGJtmeMNjtm",
+                    "balance": "0",
+                    "tx": "0",
+                    "recv": "0"
+                }
+            }
+        },
+        "26": {
+            "passphrase": "classmate",
+            "HEX": "66f9b98dde76ccbacebabd344bf5244fd6bb4a6a5ac62ababfea82d3fcc650b1",
+            "WIF(c)": "T6W9YHRYZ6uYyd6F1DfkmfkhrvvoWbMFBDGcHfRiN2fBhCpVkMU1",
+            "WIF(u)": "6uuNRJmXiFw3iNmgsoNU8rZZNHJB5tjeef8AMYN1JuV8rvPzhmG",
+            "Addresses": {
+                "P2PKH(c)": {
+                    "address": "LP53zkm5aZGcn5wGnELAoQ5hhizmisYxB9",
+                    "balance": "0",
+                    "tx": "0",
+                    "recv": "0"
+                },
+                "P2SH(c)": {
+                    "address": "MBcc2aNXzBDvBexHEzKaNgsp9eSinmCtxZ",
+                    "balance": "0",
+                    "tx": "0",
+                    "recv": "0"
+                },
+                "BECH32(c)": {
+                    "address": "ltc1q9gcch2tyl5l07zurajahn7y436295chu3fm2qs",
+                    "balance": "0",
+                    "tx": "0",
+                    "recv": "0"
+                },
+                "P2PKH(u)": {
+                    "address": "Lftqtj5xcuURY8zfAHQMXcYvsQLy8Nzx4F",
+                    "balance": "0",
+                    "tx": "0",
+                    "recv": "0"
+                }
+            }
+        },
+        "27": {
+            "passphrase": "classmates",
+            "HEX": "d9fce63fa79babdb0cc0d66ca327a1717ba263278c4e985138ac925d854bb677",
+            "WIF(c)": "TAMiYfLtLty4WXH2FYZX1sYXNEquCN2Gh93Mak8tT5BPnqeywnku",
+            "WIF(u)": "6vn2Fsq1JebuTB2pQgmyeMWoJVxwRKoxfYjDpXAVRV8nwuQYZoz",
+            "Addresses": {
+                "P2PKH(c)": {
+                    "address": "LYiEk2TcRwfyH4pNAx5juM64HUG4TW2R8J",
+                    "balance": "0",
+                    "tx": "0",
+                    "recv": "0"
+                },
+                "P2SH(c)": {
+                    "address": "M7uGU7BYZm1EqjxR2jD3dtrrz4hKSnZiCu",
+                    "balance": "0",
+                    "tx": "0",
+                    "recv": "0"
+                },
+                "BECH32(c)": {
+                    "address": "ltc1qj0esnhw4cnx3msacnxhylyvghw54xgqvuajdv5",
+                    "balance": "0",
+                    "tx": "0",
+                    "recv": "0"
+                },
+                "P2PKH(u)": {
+                    "address": "LUVLxR79dLsLbrBx1T8qvnTHH5zg1rn43a",
+                    "balance": "0",
+                    "tx": "0",
+                    "recv": "0"
+                }
+            }
+        },
+        "28": {
+            "passphrase": "classroom",
+            "HEX": "83d82a74a67aebdecd3846a42bc5235254fb77f8da9a189bf49c321f450dcccd",
+            "WIF(c)": "T7UGMBSd1j2sG1Gd7RjYbGpDWQCM8s4i6vr8TTcdEX1GeFdV1Utv",
+            "WIF(u)": "6v85qXTecWThqiJ8jEm5SSLJndXDGNmLjaVoYpibwigwJ749LvC",
+            "Addresses": {
+                "P2PKH(c)": {
+                    "address": "LdrdJVM25mgwNUKKuBk8s76YmBVp6rLCux",
+                    "balance": "0",
+                    "tx": "0",
+                    "recv": "0"
+                },
+                "P2SH(c)": {
+                    "address": "MFz7R6chegjtHpntbhpLtfv6fEZdQ5zZvj",
+                    "balance": "0",
+                    "tx": "0",
+                    "recv": "0"
+                },
+                "BECH32(c)": {
+                    "address": "ltc1qe3sa8ws8le3w7hvzwcsptc7kl8kvyfr5nete47",
+                    "balance": "0",
+                    "tx": "0",
+                    "recv": "0"
+                },
+                "P2PKH(u)": {
+                    "address": "LSHAcznRSyLdvDsMJzgTtefZCpouSDNudp",
+                    "balance": "0",
+                    "tx": "0",
+                    "recv": "0"
+                }
+            }
+        },
+        "29": {
+            "passphrase": "classrooms",
+            "HEX": "c7dc0d3542b245549b8b0d343775592905bd6a34a1934a10055539f4f3bd4d1c",
+            "WIF(c)": "T9kUgS5Mibn2cKe9sUhPFbxJSSPPVGVrnfhMbBgLjJocAhpmEwoK",
+            "WIF(u)": "6ve3CCaAE3ttZvcc66NPG6Cd887S2sdu4YsqAZKt9E6aLvvDWZK",
+            "Addresses": {
+                "P2PKH(c)": {
+                    "address": "LPN6snR2ukYWSjejBbgkXnAoPV5fgiSoPB",
+                    "balance": "0",
+                    "tx": "0",
+                    "recv": "0"
+                },
+                "P2SH(c)": {
+                    "address": "MAU7FZ7DFKdLSvCZhq1GixyF1xKrLvFZLe",
+                    "balance": "0",
+                    "tx": "0",
+                    "recv": "0"
+                },
+                "BECH32(c)": {
+                    "address": "ltc1q944s240pdps68v27nysm5nys79zyurx78n90x3",
+                    "balance": "0",
+                    "tx": "0",
+                    "recv": "0"
+                },
+                "P2PKH(u)": {
+                    "address": "LYezcxsGFF5kLRQ9JtmgfapU2FVF3AyKob",
+                    "balance": "0",
+                    "tx": "0",
+                    "recv": "0"
+                }
+            }
+        },
+        "30": {
+            "passphrase": "clattered",
+            "HEX": "d3154b1ff21dfd1ecd9ea7f556a304d9b10d0a5bbc275150dc6a3c7e1781dd81",
+            "WIF(c)": "TA8J5YHYxShJ9s9j68Gv5cxKp1faZnHYqjJKzBvNKJV1AVPRhqxV",
+            "WIF(u)": "6viytKsRTcGvjLX56hAVnuZ26DPLPP3PcxoX8X7eudaz8cq6Qn9",
+            "Addresses": {
+                "P2PKH(c)": {
+                    "address": "LVKXe6VBkV3r1P6b3DJsxL5xe99XhQSmMb",
+                    "balance": "0",
+                    "tx": "0",
+                    "recv": "0"
+                },
+                "P2SH(c)": {
+                    "address": "MEmPH6wGrvHq8HujStrY4D9Buzz6CWT44K",
+                    "balance": "0",
+                    "tx": "0",
+                    "recv": "0"
+                },
+                "BECH32(c)": {
+                    "address": "ltc1qd6lnxx8dzjes5627ckh0q75aeanf2cdc8xp0gf",
+                    "balance": "0",
+                    "tx": "0",
+                    "recv": "0"
+                },
+                "P2PKH(u)": {
+                    "address": "LaQ8KL2YbWXqd1zYDo9p1NuxveUZC8mzVi",
+                    "balance": "0",
+                    "tx": "0",
+                    "recv": "0"
+                }
+            }
+        },
+        "31": {
+            "passphrase": "clattering",
+            "HEX": "0814fffe069a97e2dc7e098b314df41f2c1b6b115d30e7679bbfc8fd43add21f",
+            "WIF(c)": "T3KgqEQVYbbfvpQGGvyGzFXeMxifdFAYpoxtQgSmHHDQnXCDopvv",
+            "WIF(u)": "6uBaVbkqcFdrbrFnbsk7LmXWJtbMz9eWQyQY8daUhqzBq26Kkzd",
+            "Addresses": {
+                "P2PKH(c)": {
+                    "address": "LR4kbBABXJpVSXPoXwdMNsaFySsVqZjtdw",
+                    "balance": "0",
+                    "tx": "0",
+                    "recv": "0"
+                },
+                "P2SH(c)": {
+                    "address": "MMyF3yCJBhX14KoYjMAXBxvPBMp2sQqbaW",
+                    "balance": "0",
+                    "tx": "0",
+                    "recv": "0"
+                },
+                "BECH32(c)": {
+                    "address": "ltc1qgqf5g5wgcxfq2lavpmtmj3ga44kmqmx5gutvst",
+                    "balance": "0",
+                    "tx": "0",
+                    "recv": "0"
+                },
+                "P2PKH(u)": {
+                    "address": "LbNKxipgQ1phT4KnuuUYiiwJkCgrWrEKJH",
+                    "balance": "0",
+                    "tx": "0",
+                    "recv": "0"
+                }
+            }
+        },
+        "32": {
+            "passphrase": "claustrophobia",
+            "HEX": "49bdcdeaf8f41741bf4eae69444cd4f45181f0f056d08e0a215cd849d637a0f1",
+            "WIF(c)": "T5XKZactoN7ams5N51Ha1aPyvk2oaBi1qhBCqGBFDE3C88d5j8L2",
+            "WIF(u)": "6ugVg6oeZi2wn4BxXMuh72DumoTEixSc5gv4b3XsLzL5LKUF1QD",
+            "Addresses": {
+                "P2PKH(c)": {
+                    "address": "LfRUPBvSXq8q18kWyLsGKYRPszzHsGoCxQ",
+                    "balance": "0",
+                    "tx": "0",
+                    "recv": "0"
+                },
+                "P2SH(c)": {
+                    "address": "MDgKAm78TZoji1BGSeEEopCzQWdPL7nwN9",
+                    "balance": "0",
+                    "tx": "0",
+                    "recv": "0"
+                },
+                "BECH32(c)": {
+                    "address": "ltc1qmkgrcqtdartvlutsqmej2f9rl3w7x2nwdq23pn",
+                    "balance": "0",
+                    "tx": "0",
+                    "recv": "0"
+                },
+                "P2PKH(u)": {
+                    "address": "LRhBDB9EyEZNSUj9TSXZE5YD8tPHKRGdPW",
+                    "balance": "0",
+                    "tx": "0",
+                    "recv": "0"
+                }
+            }
+        },
+        "33": {
+            "passphrase": "claustrophobic",
+            "HEX": "bfa81944145bb8babe66618ab4a77c6c72ba3cb8855b82a0a23c886445ba1aea",
+            "WIF(c)": "T9UXqxL8aD96eMzSJuLjb698Qc1UTfifbQHVUMe1jnUzYF1bYF5k",
+            "WIF(u)": "6vaRfHAKUv3jy3VRK6y8PDwri9PK19mnSvJnRKivBbmrjy6ct9E",
+            "Addresses": {
+                "P2PKH(c)": {
+                    "address": "LQNTcqZ5J78iUJqFwgHoHfkBuUMgr51KTX",
+                    "balance": "0",
+                    "tx": "0",
+                    "recv": "0"
+                },
+                "P2SH(c)": {
+                    "address": "MBVvjdzs2u37SC96avsteHiMx7cBu7J2op",
+                    "balance": "0",
+                    "tx": "0",
+                    "recv": "0"
+                },
+                "BECH32(c)": {
+                    "address": "ltc1q8p68vg9gttzw68wl09mslsdqwtt28tytexn80d",
+                    "balance": "0",
+                    "tx": "0",
+                    "recv": "0"
+                },
+                "P2PKH(u)": {
+                    "address": "LYE9mc2F2RNAkry6pK8n26WoA4qhYFZeuk",
+                    "balance": "0",
+                    "tx": "0",
+                    "recv": "0"
+                }
+            }
+        },
+        "34": {
+            "passphrase": "cleanliness",
+            "HEX": "546dab589a6eed02372c8e275ca00bfecad28650a6bddd8978436a8ea9fe3af7",
+            "WIF(c)": "T5t6TaXHXtwFVkM6f5iVzt7MnRmFDZw44rfG5BpMPMyRqy2manVc",
+            "WIF(u)": "6umCfCDkczz9irhMK9KTxi2tqMZgUKLVnjWxygcCR6fAFk8Z4uD",
+            "Addresses": {
+                "P2PKH(c)": {
+                    "address": "LboTCDexygBA15qxkUgksWYetxQvphP9D2",
+                    "balance": "0",
+                    "tx": "0",
+                    "recv": "0"
+                },
+                "P2SH(c)": {
+                    "address": "M8n8mj8MXKo5dPjK9RZUbGiM37yGbcu3Y8",
+                    "balance": "0",
+                    "tx": "0",
+                    "recv": "0"
+                },
+                "BECH32(c)": {
+                    "address": "ltc1qkht78jrdxedxjyzr4f2hhynmrw74zfkuawrnhm",
+                    "balance": "0",
+                    "tx": "0",
+                    "recv": "0"
+                },
+                "P2PKH(u)": {
+                    "address": "LaaJYAvrx1FNRiSS4amqXvbtTdZXyAcQ84",
+                    "balance": "0",
+                    "tx": "0",
+                    "recv": "0"
+                }
+            }
+        },
+        "35": {
+            "passphrase": "cleanness",
+            "HEX": "053fcf3e6343fbbef4bf62e5f502ded18091f88537e72f1aa142e13dc3e4cbe6",
+            "WIF(c)": "T3EBTDUQmfejhmmcugeiw8U4FRQXd51yWSAE1H4FaRXemjzVpNKh",
+            "WIF(u)": "6uAL8kcDBaE5h3toCV1qvVszNr2hvV6fBJ2dvz7B6m5E6G8FHHR",
+            "Addresses": {
+                "P2PKH(c)": {
+                    "address": "LaHfXXBLdQtv2nyyGRosyrZUy1PpAHZfJb",
+                    "balance": "0",
+                    "tx": "0",
+                    "recv": "0"
+                },
+                "P2SH(c)": {
+                    "address": "MQTaD2QW7UQqVssn3jrtKPpZDRYCQX9H5u",
+                    "balance": "0",
+                    "tx": "0",
+                    "recv": "0"
+                },
+                "BECH32(c)": {
+                    "address": "ltc1q557eglt2nqd7m0zaqzrzr4ahj98htr8vjtqq5r",
+                    "balance": "0",
+                    "tx": "0",
+                    "recv": "0"
+                },
+                "P2PKH(u)": {
+                    "address": "LZYXVyMRdBcTfGQ1TiB5PFoRfHLnv11uJ5",
+                    "balance": "0",
+                    "tx": "0",
+                    "recv": "0"
+                }
+            }
+        },
+        "36": {
+            "passphrase": "cleansers",
+            "HEX": "d28eb19686f646fd92508081412e1d5550747a154723295d6e2a848ae9087616",
+            "WIF(c)": "TA7GoNRXy94jM9KEFfyrRYne2qpKfqujiEJfXxZfKwUpyGgD2H7a",
+            "WIF(u)": "6vikTNAdvW1r1wSt2xxUWaV1gqfpH3vds86MxxBa9pgqUmipKfV",
+            "Addresses": {
+                "P2PKH(c)": {
+                    "address": "LZy6ynVSLBFtBr7KVswJEm9cCREdPnEpN4",
+                    "balance": "0",
+                    "tx": "0",
+                    "recv": "0"
+                },
+                "P2SH(c)": {
+                    "address": "MKSKAAynUnpZeqTx9w4XuCGjnaHjitvH4a",
+                    "balance": "0",
+                    "tx": "0",
+                    "recv": "0"
+                },
+                "BECH32(c)": {
+                    "address": "ltc1q5xawc7yetk66g7833cxngffyzgtwc7vzhugsvf",
+                    "balance": "0",
+                    "tx": "0",
+                    "recv": "0"
+                },
+                "P2PKH(u)": {
+                    "address": "Ldd4poS856zt3HUSZewpE8zSWDHeKb26Eq",
+                    "balance": "0",
+                    "tx": "0",
+                    "recv": "0"
+                }
+            }
+        },
+        "37": {
+            "passphrase": "cleansing",
+            "HEX": "ceb9057c678e97657ca93f1aba014bb7c0ac8c873b9004b8fe78987239a4d741",
+            "WIF(c)": "T9ypTsPECkbC5e22k8qydkiydMvBC3o7iXbY4UYNT4xvkR3qUdS7",
+            "WIF(u)": "6vh4WCR4u45aKivFSdfjjmLw4hzMtSZCVSWaKTdZW1u6PAnhzNT",
+            "Addresses": {
+                "P2PKH(c)": {
+                    "address": "LbKeaEm52JfYf6vSbvHHKMiNYWUgKBkX4s",
+                    "balance": "0",
+                    "tx": "0",
+                    "recv": "0"
+                },
+                "P2SH(c)": {
+                    "address": "MHAiGY6aCALooAH4re9hZS2LHvfUPQLqhq",
+                    "balance": "0",
+                    "tx": "0",
+                    "recv": "0"
+                },
+                "BECH32(c)": {
+                    "address": "ltc1qkz2mm7dw0lr2uau2va7d27tp6zrpka5fd0thdd",
+                    "balance": "0",
+                    "tx": "0",
+                    "recv": "0"
+                },
+                "P2PKH(u)": {
+                    "address": "LZMptnk3BqNoTqEpDJoFadfyhgXdrvoFz3",
+                    "balance": "0",
+                    "tx": "0",
+                    "recv": "0"
+                }
+            }
+        },
+        "38": {
+            "passphrase": "clearance",
+            "HEX": "213f67768585260948e5554d4e2d180e1f08cd0815d04dfcc9103295f93251b7",
+            "WIF(c)": "T4Ac7oMye57Z5WaWAUSA8Jxf1jq1i4RaHhCrvySJXK2dCR35JPtg",
+            "WIF(u)": "6uNfKJkiqGtL3qPYXhCbEteXpHxHURntwz98Eb5pvYGmuUvB6XQ",
+            "Addresses": {
+                "P2PKH(c)": {
+                    "address": "LVTG7V1WnPJ1JVYDxapAgpWVQAfZ72kutJ",
+                    "balance": "0",
+                    "tx": "0",
+                    "recv": "0"
+                },
+                "P2SH(c)": {
+                    "address": "MJBLo7BfiP7wf8d8jeqthSB6JknwUMVGQi",
+                    "balance": "0",
+                    "tx": "0",
+                    "recv": "0"
+                },
+                "BECH32(c)": {
+                    "address": "ltc1qwq6epw4e9cy54qcsg94dha8vsj5lw6etzrhxn3",
+                    "balance": "0",
+                    "tx": "0",
+                    "recv": "0"
+                },
+                "P2PKH(u)": {
+                    "address": "LWxMa3WzH3VzwS46xfMFNRwfwXWb115Hia",
+                    "balance": "0",
+                    "tx": "0",
+                    "recv": "0"
+                }
+            }
+        },
+        "39": {
+            "passphrase": "clearances",
+            "HEX": "0100c983d135586559dc04e1b928f552790ec85a6b5e004f210d993d5e3136e3",
+            "WIF(c)": "T35vigsCDixWBq6u3jYZtrknfN2A8iP8xEYkkPf4aDKSms9aE47e",
+            "WIF(u)": "6u8Tfu5aMZAQNwQ5ziMkFU8ezBCbEyxK7d9Z7fDFQPGxgg8Tv5i",
+            "Addresses": {
+                "P2PKH(c)": {
+                    "address": "LL4gHD82TdJcdTL2MKHcD3xFDMsXsMdZWn",
+                    "balance": "0",
+                    "tx": "0",
+                    "recv": "0"
+                },
+                "P2SH(c)": {
+                    "address": "MUeqLyGxDsS2a4XXiGfjSCts63aGW15Ddz",
+                    "balance": "0",
+                    "tx": "0",
+                    "recv": "0"
+                },
+                "BECH32(c)": {
+                    "address": "ltc1qpyms54py7y8f82e2wru3cl5v2ude7k6xj5ztlw",
+                    "balance": "0",
+                    "tx": "0",
+                    "recv": "0"
+                },
+                "P2PKH(u)": {
+                    "address": "LYKNBZHiSnuTsFxjaoPUGFrsKP6XXNougB",
+                    "balance": "0",
+                    "tx": "0",
+                    "recv": "0"
+                }
+            }
+        },
+        "40": {
+            "passphrase": "clearings",
+            "HEX": "0e6b518edeed3389234b4159de7a44693d60dcc0374015b33d6902a759347fd7",
+            "WIF(c)": "T3Y1KBbvd6Dgsckq7YSPkP2YAXLWGuHgUgDAbPQubeoRGVJxHfFB",
+            "WIF(u)": "6uENNLd1NKQGNtbrR92g91uupvYcBQB88dXQ1ze8qdfA8BFbAte",
+            "Addresses": {
+                "P2PKH(c)": {
+                    "address": "LN7JHsLK4qHzXf8HakeWUmYCbpJ3N2JtCT",
+                    "balance": "0",
+                    "tx": "0",
+                    "recv": "0"
+                },
+                "P2SH(c)": {
+                    "address": "MJ8gTmkGMEJzUAJWmZfYSBzHJWUtREhY5T",
+                    "balance": "0",
+                    "tx": "0",
+                    "recv": "0"
+                },
+                "BECH32(c)": {
+                    "address": "ltc1qr7nz7sjmpgm4drjqvawg92fzjq778y06rf7ynf",
+                    "balance": "0",
+                    "tx": "0",
+                    "recv": "0"
+                },
+                "P2PKH(u)": {
+                    "address": "Lf1H3wEgNeXEBbyTCfU45GpmWiYNoWvqRR",
+                    "balance": "0",
+                    "tx": "0",
+                    "recv": "0"
+                }
+            }
+        },
+        "41": {
+            "passphrase": "clearness",
+            "HEX": "3647834d421ae9c4c3ed6f6881a53ad7cc23f6702a2a4c980ef70863e9978589",
+            "WIF(c)": "T4sVKdbgw9hJfsmW7f2TdWagibYrvayPSGrLGKQEdV16hd8zhvkH",
+            "WIF(u)": "6uXvYQhV5ZnP8T17bazRcTe5vNsifsk8oWRKQrwChSNmnyuJBjM",
+            "Addresses": {
+                "P2PKH(c)": {
+                    "address": "LMVT74YN1vvLoQhDKPqb39HLxRhRaRexLq",
+                    "balance": "0",
+                    "tx": "0",
+                    "recv": "0"
+                },
+                "P2SH(c)": {
+                    "address": "MSkPDC17rmevrDLU89HE4Z2uNSrAkd3wfE",
+                    "balance": "0",
+                    "tx": "0",
+                    "recv": "0"
+                },
+                "BECH32(c)": {
+                    "address": "ltc1qrr0fzwyp6lwywmgh94mth0vu0ey8uw2c8qpeud",
+                    "balance": "0",
+                    "tx": "0",
+                    "recv": "0"
+                },
+                "P2PKH(u)": {
+                    "address": "LdSr1EtuvqQWJmUbho4kG4t8HwtQ4V7iiH",
+                    "balance": "0",
+                    "tx": "0",
+                    "recv": "0"
+                }
+            }
+        },
+        "42": {
+            "passphrase": "clergyman",
+            "HEX": "e4da3d5fcec247a31d354c79ce78068aeda3abe48e310a40d177f6eb36cf1588",
+            "WIF(c)": "TAiqUGV6KrFzrfm38qKvgN3u8oEn5GQFbrRrRiPtfVb8z3mUzAJE",
+            "WIF(u)": "6vron9VZvfMAV25YJBVkt4QmSL5wAaPwWeUqMZ31q9HoDVeTYjA",
+            "Addresses": {
+                "P2PKH(c)": {
+                    "address": "Lf5TdbMPLxtMweZWWm6Li8JiPUJr6Axw12",
+                    "balance": "0",
+                    "tx": "0",
+                    "recv": "0"
+                },
+                "P2SH(c)": {
+                    "address": "MTupQCZXiKyG1YESQnyYZLHTYxWWPdZfrH",
+                    "balance": "0",
+                    "tx": "0",
+                    "recv": "0"
+                },
+                "BECH32(c)": {
+                    "address": "ltc1qm8r5nfmrk85wae9gzm6fvy0y6vsj747r6eschs",
+                    "balance": "0",
+                    "tx": "0",
+                    "recv": "0"
+                },
+                "P2PKH(u)": {
+                    "address": "LUGRTwSr8rUEXhxBas4NRp6MbxvN4PwKNV",
+                    "balance": "0",
+                    "tx": "0",
+                    "recv": "0"
+                }
+            }
+        },
+        "43": {
+            "passphrase": "clergymen",
+            "HEX": "f69aeeccd82042fddba0488f3153f53db0de22b771d5e59028f68bcb214f44b7",
+            "WIF(c)": "TBKLzMQXeSnPVg1WDYQQ4onyxhu7LjAGMfMBqv8JBNYu4Hg6c6CW",
+            "WIF(u)": "6vzdFMUzEvRL9JuDxri6gNvvEXZegpAMFCQc5jrEQeWRwHcGNsT",
+            "Addresses": {
+                "P2PKH(c)": {
+                    "address": "LgD4RDVoe9WFVmWvtZ3ojUomDp7xjUYiwH",
+                    "balance": "0",
+                    "tx": "0",
+                    "recv": "0"
+                },
+                "P2SH(c)": {
+                    "address": "MWZBonNszFTjXtMaJn6UPvn6BaDrrEkUCg",
+                    "balance": "0",
+                    "tx": "0",
+                    "recv": "0"
+                },
+                "BECH32(c)": {
+                    "address": "ltc1quch469ns725utxrvd2tyf8hqwkwu30nwkln2ce",
+                    "balance": "0",
+                    "tx": "0",
+                    "recv": "0"
+                },
+                "P2PKH(u)": {
+                    "address": "LduobX6cDeThAdkaA14vjtsrLE4JTDN5M5",
+                    "balance": "0",
+                    "tx": "0",
+                    "recv": "0"
+                }
+            }
+        },
+        "44": {
+            "passphrase": "cleverest",
+            "HEX": "bcbead6c63cffe653bcd615adc837b98fd6033d57c3629f272a69cec8ed3bff0",
+            "WIF(c)": "T9NsZAmJ31cqqrKGjyrA4XqjeEnTzhxhaEXiRcTtv6uhPRFQqtJz",
+            "WIF(u)": "6vZ9HMLYxHTFEncQWDt1hDsvALtY3CYejseKSy4q1hm7S7AEArM",
+            "Addresses": {
+                "P2PKH(c)": {
+                    "address": "LR5J1aQqb3FaY9huEGjzHEW5NSJ7AFJJMz",
+                    "balance": "0",
+                    "tx": "0",
+                    "recv": "0"
+                },
+                "P2SH(c)": {
+                    "address": "MA4kLQk1nLXpJyZKvim4cj9zLDCMYQuxSX",
+                    "balance": "0",
+                    "tx": "0",
+                    "recv": "0"
+                },
+                "BECH32(c)": {
+                    "address": "ltc1qgqkhahxsszd3wm9r6jwjkvrq28n29uehv68u26",
+                    "balance": "0",
+                    "tx": "0",
+                    "recv": "0"
+                },
+                "P2PKH(u)": {
+                    "address": "LVKw6GxPK1cserNnUnpAGXnsNh41PhPf7Z",
+                    "balance": "0",
+                    "tx": "0",
+                    "recv": "0"
+                }
+            }
+        },
+        "45": {
+            "passphrase": "cleverness",
+            "HEX": "28867ac7da09624fd711fb2eb81c68b8966c0c8c78d1986b889e65ed99577947",
+            "WIF(c)": "T4QkdZZhyL6gt61x77uP8PWLvKpEAX7ptTy4rUhYCLXQc9cZersH",
+            "WIF(u)": "6uRsDMyMA8xDD2bCaZNqWmXDDXzpqq4MpTW1sddprEwU6n8MqFm",
+            "Addresses": {
+                "P2PKH(c)": {
+                    "address": "LKsLSjrQSvZkD3TQMTBf1cahGofnf6sWej",
+                    "balance": "0",
+                    "tx": "0",
+                    "recv": "0"
+                },
+                "P2SH(c)": {
+                    "address": "ME2Qcafvivcn3o9tiqMa1VajmhXuqSb8to",
+                    "balance": "0",
+                    "tx": "0",
+                    "recv": "0"
+                },
+                "BECH32(c)": {
+                    "address": "ltc1qqug7sgdey2xjdr3ce07g9y6qaehexkf5j4slhz",
+                    "balance": "0",
+                    "tx": "0",
+                    "recv": "0"
+                },
+                "P2PKH(u)": {
+                    "address": "LLzJt1N7zNx4QtPgoTDWEx1FULuqpZM7AW",
+                    "balance": "0",
+                    "tx": "0",
+                    "recv": "0"
+                }
+            }
+        },
+        "46": {
+            "passphrase": "climatically",
+            "HEX": "6073bf7f97f09b2958bd0e7252e7fd41a6c77fb662449585e148850f5850490b",
+            "WIF(c)": "T6HU4y8BFB4Z36RAkw8PtgH1s1KwFk1xzsnfXaXP65dD8QAovyZL",
+            "WIF(u)": "6urVnkyucqVu7pSsF2qoRPwqE9EMSzn5XnVUJoZiFkBvVsoUYyP",
+            "Addresses": {
+                "P2PKH(c)": {
+                    "address": "LNfSGk4dw8PrtBKYvEQKwMMR74qB3dZtNE",
+                    "balance": "0",
+                    "tx": "0",
+                    "recv": "0"
+                },
+                "P2SH(c)": {
+                    "address": "M95TaUttKHp1mxCkvck4LdB2dPmrX8N4hZ",
+                    "balance": "0",
+                    "tx": "0",
+                    "recv": "0"
+                },
+                "BECH32(c)": {
+                    "address": "ltc1qykazssv4ulcje36zg3je0wlm924rentyt0wh84",
+                    "balance": "0",
+                    "tx": "0",
+                    "recv": "0"
+                },
+                "P2PKH(u)": {
+                    "address": "LWPQ5hyfbvc1DxC7DiA5oEVh4Fzoa6k7P9",
+                    "balance": "0",
+                    "tx": "0",
+                    "recv": "0"
+                }
+            }
+        },
+        "47": {
+            "passphrase": "climatology",
+            "HEX": "de116d47c21abf1e126bfc79e802007ed2c8b9058ed587e575700dafb95ab4f1",
+            "WIF(c)": "TAVeZiNf4VrxeRCjmZbE98DbdQysoVk94pmajM7odhWUQ4zYrSFw",
+            "WIF(u)": "6vopUoXjcELUZVbNvba8WUv9kbS7ykfmsiBZ7RVjHUJZ34WS4bp",
+            "Addresses": {
+                "P2PKH(c)": {
+                    "address": "LdVrPyhHF9rAQ2y9nKRJ4dtZtNbePS3sNn",
+                    "balance": "0",
+                    "tx": "0",
+                    "recv": "0"
+                },
+                "P2SH(c)": {
+                    "address": "MDuNZr3mXpwFFZ3RYYsQg7yMi51r1X3HDh",
+                    "balance": "0",
+                    "tx": "0",
+                    "recv": "0"
+                },
+                "BECH32(c)": {
+                    "address": "ltc1qep6qt5z3yjaattnlr9y52m5th344ecf5p28k08",
+                    "balance": "0",
+                    "tx": "0",
+                    "recv": "0"
+                },
+                "P2PKH(u)": {
+                    "address": "Lg6p4qdQNQ8XbnX5z9k37Y7BdN4UrTeFj8",
+                    "balance": "0",
+                    "tx": "0",
+                    "recv": "0"
+                }
+            }
+        },
+        "48": {
+            "passphrase": "clinically",
+            "HEX": "2d88f340a5fbf1e5d839c640f218d9ddb103f45f41218cfc0c8aeafbbdc2542c",
+            "WIF(c)": "T4aVSYzDpofRaPELiN1Xm1z6t236AnAPebN18QWp85EPRRSnz4PJ",
+            "WIF(u)": "6uU5BKaMaVF9HdJXJ5JnwNySMAkXAvHB7hs57D8D34E16aUGfv9",
+            "Addresses": {
+                "P2PKH(c)": {
+                    "address": "Lbn2JeAfSWjxhNk5QBLXrXzDoSFKk82CgC",
+                    "balance": "0",
+                    "tx": "0",
+                    "recv": "0"
+                },
+                "P2SH(c)": {
+                    "address": "M8qgGqTW7JsTcmJc5v4uf2jz1QSks7ithy",
+                    "balance": "0",
+                    "tx": "0",
+                    "recv": "0"
+                },
+                "BECH32(c)": {
+                    "address": "ltc1qkkft9qnj4y6p6vvyl9azw7qakvhcpza4ntln53",
+                    "balance": "0",
+                    "tx": "0",
+                    "recv": "0"
+                },
+                "P2PKH(u)": {
+                    "address": "LdW2mgvSk8YboFtVPigLnC4ptgap3hvYW9",
+                    "balance": "0",
+                    "tx": "0",
+                    "recv": "0"
+                }
+            }
+        },
+        "49": {
+            "passphrase": "clinician",
+            "HEX": "87ddbb4e5cec0c1d499273a5ce49bcdcd583294e75b9535af09642e7f3c6dc5d",
+            "WIF(c)": "T7c5n4KBoxEoYgda7qsYJB7VU2rfJu5ayisSD5q1iNTiAy9LLX5e",
+            "WIF(u)": "6v9rZs9CWfoB6NDN6dSx84einzy7QzZkwzX1GswNusdQq3eNvvu",
+            "Addresses": {
+                "P2PKH(c)": {
+                    "address": "LdAfY8P94h4SRULtfvgs187ym5RYUSmwG3",
+                    "balance": "0",
+                    "tx": "0",
+                    "recv": "0"
+                },
+                "P2SH(c)": {
+                    "address": "MUnyZciMcRioA2oVEJTPunnjpJ25yAnLM2",
+                    "balance": "0",
+                    "tx": "0",
+                    "recv": "0"
+                },
+                "BECH32(c)": {
+                    "address": "ltc1qcnfsmm95q9l90hmwjxf5y7jjq60r2p4zgulfvy",
+                    "balance": "0",
+                    "tx": "0",
+                    "recv": "0"
+                },
+                "P2PKH(u)": {
+                    "address": "LKxp7rb282iyjggvpsR6kN72UKd5vByz4m",
+                    "balance": "0",
+                    "tx": "0",
+                    "recv": "0"
+                }
+            }
+        },
+        "50": {
+            "passphrase": "clipboard",
+            "HEX": "a78c94675455b6203686c7f220c225c90d386a52a623c547bfce8bbbac94c31c",
+            "WIF(c)": "T8ffrnVVTxHGLde8uaLcn2CCKQE4zCzDiy3Ao9pSKAGU1XjZBeJp",
+            "WIF(u)": "6vPosFPKEMgUwkC8gZ2GouP2CsaKaMPUofXQ4fFNbUUX8qF5fc6",
+            "Addresses": {
+                "P2PKH(c)": {
+                    "address": "LcPfsGRDUQoHyLggi6SGDtomSg5CCLvZze",
+                    "balance": "0",
+                    "tx": "0",
+                    "recv": "0"
+                },
+                "P2SH(c)": {
+                    "address": "MTUtVmiHyvUz6aoHcz7A7Lm1xSfrqPjVjZ",
+                    "balance": "0",
+                    "tx": "0",
+                    "recv": "0"
+                },
+                "BECH32(c)": {
+                    "address": "ltc1qh3gfer60uft4du70yrrkdd5wwgsgpm33pvqglz",
+                    "balance": "0",
+                    "tx": "0",
+                    "recv": "0"
+                },
+                "P2PKH(u)": {
+                    "address": "LTC2GiuVFpbzrzmVTF4W1hpzMfNSdzNoAP",
+                    "balance": "0",
+                    "tx": "0",
+                    "recv": "0"
+                }
+            }
+        },
+        "51": {
+            "passphrase": "clippings",
+            "HEX": "0a29fd3639932193059d00b55da7fbb98439ec2a5017010a3d180ccb982eab4f",
+            "WIF(c)": "T3PjZixGGZK26RAM6Goapn7uofuanhnTWjrXGfacrjz8YKugJwp4",
+            "WIF(u)": "6uCVg8hAMHqVLoi61HipYDVJQGACHFE22JQudB6oe6fKUa1qeNX",
+            "Addresses": {
+                "P2PKH(c)": {
+                    "address": "LSSZBtoMvi3tjqtJx38pMtiDHjsNDfeD7S",
+                    "balance": "0",
+                    "tx": "0",
+                    "recv": "0"
+                },
+                "P2SH(c)": {
+                    "address": "MSF6kNAX6WDBuKP1wxKD6THZDPLMbAfscW",
+                    "balance": "0",
+                    "tx": "0",
+                    "recv": "0"
+                },
+                "BECH32(c)": {
+                    "address": "ltc1qfu4sdswgvdsnxya397f2jf8sfgpxudfzgsnrsr",
+                    "balance": "0",
+                    "tx": "0",
+                    "recv": "0"
+                },
+                "P2PKH(u)": {
+                    "address": "LUM6Jt9X53wba5vQgsJ57TxkoPZFg1tnfw",
+                    "balance": "0",
+                    "tx": "0",
+                    "recv": "0"
+                }
+            }
+        },
+        "52": {
+            "passphrase": "cloakroom",
+            "HEX": "0f08c850624aaff73b87d3e2cc5f8cb095d62e9b290bd18ece0c230399405be1",
+            "WIF(c)": "T3ZCfPRJPn6F2h11XSnudqsRPNYfc2CvypoeKq76BCWoEw71f4hr",
+            "WIF(u)": "6uEe5ctj1BDWuwq2w2K731CRZFrKGBhK7z3s9LxkmTAvXQYCV46",
+            "Addresses": {
+                "P2PKH(c)": {
+                    "address": "LTKkfLzKrSDXP8kqunmNxpu1VrBupFpHdy",
+                    "balance": "0",
+                    "tx": "0",
+                    "recv": "0"
+                },
+                "P2SH(c)": {
+                    "address": "MWPTiPA6bAvEQwjCXAkkp6uvKTEWzoHY3u",
+                    "balance": "0",
+                    "tx": "0",
+                    "recv": "0"
+                },
+                "BECH32(c)": {
+                    "address": "ltc1qtrvazcz5x2gce6qmsk2af8xz9z9y5pp6cn32hg",
+                    "balance": "0",
+                    "tx": "0",
+                    "recv": "0"
+                },
+                "P2PKH(u)": {
+                    "address": "LQEWwAChkWVavmktXD2Dzw437cKmS735KU",
+                    "balance": "0",
+                    "tx": "0",
+                    "recv": "0"
+                }
+            }
+        },
+        "53": {
+            "passphrase": "clobbered",
+            "HEX": "7458f98bf98b4d3c60a09df48cdc7038d6c9ffd3e4cc96062b05317630f15616",
+            "WIF(c)": "T6x9AcLHoRBVKaXuKUcXMy5ynVj4o2okjGpt3DM2KphxqP6N5ZNW",
+            "WIF(u)": "6v1FzTapm3m4hTdTMVuueNmdRoqVxHirnNiD1xMrEnFGNQ34LrC",
+            "Addresses": {
+                "P2PKH(c)": {
+                    "address": "LPgPcbEVtV3XVjrfLFPLnThuGDWdbQ4hF7",
+                    "balance": "0",
+                    "tx": "0",
+                    "recv": "0"
+                },
+                "P2SH(c)": {
+                    "address": "M8ZwRHeqSUve3Vn5YphUUCe9PNLoj5KZ3B",
+                    "balance": "0",
+                    "tx": "0",
+                    "recv": "0"
+                },
+                "BECH32(c)": {
+                    "address": "ltc1qxrs847sujwl3n7sse4pv50plqtgtjes2z0lc8k",
+                    "balance": "0",
+                    "tx": "0",
+                    "recv": "0"
+                },
+                "P2PKH(u)": {
+                    "address": "LKnZFo2JjE6GtWcHNmX9n2UgKKZRGYMFGC",
+                    "balance": "0",
+                    "tx": "0",
+                    "recv": "0"
+                }
+            }
+        },
+        "54": {
+            "passphrase": "clobbering",
+            "HEX": "d83d8a02b075ff356e769c74447b1af3be573b02134c623ceed591f291def468",
+            "WIF(c)": "TAJKXSfbPURMHfWYawqSfukJwQnRLxRPP9kPWNa2yft19RihsRfk",
+            "WIF(u)": "6vmFcu2wv87spGyYAxUHh5hdEgpuBsAbyg922DbDgaH625LJKJb",
+            "Addresses": {
+                "P2PKH(c)": {
+                    "address": "LNgV412wzz7cSnrezHmnU2k1m6w2uT4csM",
+                    "balance": "0",
+                    "tx": "0",
+                    "recv": "0"
+                },
+                "P2SH(c)": {
+                    "address": "MPa5j3rdnxCi9dXA2A8kEWafEKAS5bgnY1",
+                    "balance": "0",
+                    "tx": "0",
+                    "recv": "0"
+                },
+                "BECH32(c)": {
+                    "address": "ltc1qyhkwfc7yvaz5hc3lk53jt0t68flt74nl58fjmx",
+                    "balance": "0",
+                    "tx": "0",
+                    "recv": "0"
+                },
+                "P2PKH(u)": {
+                    "address": "LR6pFJrrsbRPwFDEpceek2Xsc9fbzioMKF",
+                    "balance": "0",
+                    "tx": "0",
+                    "recv": "0"
+                }
+            }
+        },
+        "55": {
+            "passphrase": "clockings",
+            "HEX": "96aa83a57e6961bfae5b663ab421bcc7977978c09b2d19c13cd6d52f530d1bb0",
+            "WIF(c)": "T86rPRY7A3N1QYresMvb7mvMzkh22QXW5Q5PLz83z8p4NnQMF4qe",
+            "WIF(u)": "6vGNcSVoFjgCRNGL15jxJr9TxgMPtXFcb5KfbSBD1FuoXsDvdWD",
+            "Addresses": {
+                "P2PKH(c)": {
+                    "address": "LVfntcSKxsmuYW7YMHe1U2eae4ao6DNLm2",
+                    "balance": "0",
+                    "tx": "0",
+                    "recv": "0"
+                },
+                "P2SH(c)": {
+                    "address": "MB5abHmquWfBpp5vrrWi4dtdpvWRpTBdfz",
+                    "balance": "0",
+                    "tx": "0",
+                    "recv": "0"
+                },
+                "BECH32(c)": {
+                    "address": "ltc1qw22rl3hklvnvedld4mf9r8ven2xszje3mrpqp5",
+                    "balance": "0",
+                    "tx": "0",
+                    "recv": "0"
+                },
+                "P2PKH(u)": {
+                    "address": "LgcXg2vCKo58WsBGEDSCZ7aiZFy44sPFJE",
+                    "balance": "0",
+                    "tx": "0",
+                    "recv": "0"
+                }
+            }
+        },
+        "56": {
+            "passphrase": "clockwatcher",
+            "HEX": "633c83aa961bd300da4ff5e7b8f644f7eccbae0d5e4f0920c5949b2ce2915f26",
+            "WIF(c)": "T6NsydHjtQ9gVpxBhcxsWTGmZhSiHEjp4XDctku3dX43Ctc5PwL5",
+            "WIF(u)": "6usiuhr76JUo75XB8PeaeVA1agyaNMLDUXrz52LVgzZQcKcxUKw",
+            "Addresses": {
+                "P2PKH(c)": {
+                    "address": "LeqYXvTSed8QhuYfCcDtT4vpTvAY8o5ShU",
+                    "balance": "0",
+                    "tx": "0",
+                    "recv": "0"
+                },
+                "P2SH(c)": {
+                    "address": "MMjVhGAjfFtfsRSQPKVqab64NLiLRHHQRz",
+                    "balance": "0",
+                    "tx": "0",
+                    "recv": "0"
+                },
+                "BECH32(c)": {
+                    "address": "ltc1q6ujcuudy5du6uwrf5a539ddmz5kwma9thgl4lc",
+                    "balance": "0",
+                    "tx": "0",
+                    "recv": "0"
+                },
+                "P2PKH(u)": {
+                    "address": "LW4Lcwjy35eiAPCqC5J3rgpYGh26eX71vY",
+                    "balance": "0",
+                    "tx": "0",
+                    "recv": "0"
+                }
+            }
+        },
+        "57": {
+            "passphrase": "clockwise",
+            "HEX": "469baa511b0da92ee2936c2499429a1ad4b3b24a5d16e26a66722d382ad67cec",
+            "WIF(c)": "T5REJ1oJZisSQcDUWWT35Dz6UgCFkEoGbReZDE1csrQ53SH2cTw5",
+            "WIF(u)": "6uf7dw6xdsGWKVNQTAqwqzKNddXC3Yg2inTdkYwyAFpNJsvBc4r",
+            "Addresses": {
+                "P2PKH(c)": {
+                    "address": "Lh4t3kNvJUXGquTMsUVRPdUQpJzLJfRhLh",
+                    "balance": "0",
+                    "tx": "0",
+                    "recv": "0"
+                },
+                "P2SH(c)": {
+                    "address": "MVV9RTkkMzTGqACorEEwcD9MWyFvYVs2ku",
+                    "balance": "0",
+                    "tx": "0",
+                    "recv": "0"
+                },
+                "BECH32(c)": {
+                    "address": "ltc1qa7dcz5n3z5wua4yxcm4tyjn0zg4qcmvruf4vpw",
+                    "balance": "0",
+                    "tx": "0",
+                    "recv": "0"
+                },
+                "P2PKH(u)": {
+                    "address": "LYvzGbGhT7H2Gg2oZFutPLbsWtNyJG6UYN",
+                    "balance": "0",
+                    "tx": "0",
+                    "recv": "0"
+                }
+            }
+        },
+        "58": {
+            "passphrase": "clockwork",
+            "HEX": "faea16399a669ce0271572a17d35b8b495a7e91d19a1adb7022bb5dbdc17cb17",
+            "WIF(c)": "TBTipwXzKsiiXtNcDAxD2N7tMAPHxKM2UbtX6sqheBsGKzftS3Nj",
+            "WIF(u)": "6w2XKZkGhyocEo5SeebiEuN3a7f8U2tfQ27EcmbbaoR5P5cmGAz",
+            "Addresses": {
+                "P2PKH(c)": {
+                    "address": "LQ1zYnTmUKC1R2z5Ncgt4iqZyzpJ9z5YgT",
+                    "balance": "0",
+                    "tx": "0",
+                    "recv": "0"
+                },
+                "P2SH(c)": {
+                    "address": "MLHgY4DhBfUai49E3MoYUPDSjKKmMNodZs",
+                    "balance": "0",
+                    "tx": "0",
+                    "recv": "0"
+                },
+                "BECH32(c)": {
+                    "address": "ltc1qxj2ch8e6mxp657gmzxatfp6elmhdpjv2z6wxm8",
+                    "balance": "0",
+                    "tx": "0",
+                    "recv": "0"
+                },
+                "P2PKH(u)": {
+                    "address": "LRtqJWiQUxNdDHfB7KswPxoPJSefLXcWsX",
+                    "balance": "0",
+                    "tx": "0",
+                    "recv": "0"
+                }
+            }
+        },
+        "59": {
+            "passphrase": "cloisters",
+            "HEX": "40fe6b860770436f574cbf311d4ed84323d8d7ca939431b2c67d91e693a9a137",
+            "WIF(c)": "T5EKKWh5pyLkf2p2tXy3A5qxh4rxn9dnuCwGHK7xiW6EXUtZQAbF",
+            "WIF(u)": "6uceEFtDsk8CFWQoCDua7bBBogqvsZKJef3n9gT3ex5MjnrQmSP",
+            "Addresses": {
+                "P2PKH(c)": {
+                    "address": "LVrgaWyGfSWXQqhM3uXpzVJLfp7xasYTPb",
+                    "balance": "0",
+                    "tx": "0",
+                    "recv": "0"
+                },
+                "P2SH(c)": {
+                    "address": "MRT1tmB6h1v8GDgWgvommwKDebdU3d797B",
+                    "balance": "0",
+                    "tx": "0",
+                    "recv": "0"
+                },
+                "BECH32(c)": {
+                    "address": "ltc1qwj3cu3fpqun8ulp8l7r32g4tjvjsxjkzzn66l0",
+                    "balance": "0",
+                    "tx": "0",
+                    "recv": "0"
+                },
+                "P2PKH(u)": {
+                    "address": "LMFf6ThzQxLz6P4xFkAWtGKh3WznvfW1Ts",
+                    "balance": "0",
+                    "tx": "0",
+                    "recv": "0"
+                }
+            }
+        }
+    }
+}

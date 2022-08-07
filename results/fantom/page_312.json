@@ -1,0 +1,594 @@
+{
+    "tables": {
+        "1": {
+            "passphrase": "Heinlein+Asimov+Zelazny",
+            "HEX": "9e545fdeb7063894a8621af6bd7c81cf457fd491083377ab29d6d0e91136eadc",
+            "Addresses": {
+                "Addresses": {
+                    "address": "0x37887F6B4236BacBbbdb3aeb1745D238A9169d11",
+                    "balance": "0 ftm"
+                }
+            }
+        },
+        "2": {
+            "passphrase": "be6fed0077d17dd919e64047f318068757e98fbdcfa84eda01cf122fc46a6be6",
+            "HEX": "1a0f8063badfb8a308572fecaf963471c91da31b5242ddddda95a721a2155e03",
+            "Addresses": {
+                "Addresses": {
+                    "address": "0xe433673d5abB3C4736F146da7CC1DFd113809C90",
+                    "balance": "0 ftm"
+                }
+            }
+        },
+        "3": {
+            "passphrase": "stealme",
+            "HEX": "1972499102f5e9eb57201ed7fd7fa599e16f511b86c38df8c47debe8a06eed69",
+            "Addresses": {
+                "Addresses": {
+                    "address": "0xf0374f4474130687825eEaF387799c3DDE8cC66F",
+                    "balance": "0 ftm"
+                }
+            }
+        },
+        "4": {
+            "passphrase": "Zuckerberg",
+            "HEX": "15782bfb0041ca361d67118657719b7babed74ea0c76fd7d7084ac1b7d300925",
+            "Addresses": {
+                "Addresses": {
+                    "address": "0x5BD6018c09458467F0E81FB3F73F5Bc9b923b126",
+                    "balance": "0 ftm"
+                }
+            }
+        },
+        "5": {
+            "passphrase": "chupachupachupa",
+            "HEX": "f0681e05219f69452be12b27d50f463177a9296499cf20ea671ae62c7f11af17",
+            "Addresses": {
+                "Addresses": {
+                    "address": "0x322c02006ba427Bb9C67E2098Ed9D53EaDDAa665",
+                    "balance": "0 ftm"
+                }
+            }
+        },
+        "6": {
+            "passphrase": "mafsensor",
+            "HEX": "ac3f3fe78a8659cdd6b0a4577ae47d3207473e3634759415df0ad332fcf5df4a",
+            "Addresses": {
+                "Addresses": {
+                    "address": "0x179ae83DB6949f19563693ce93142717EAdb6408",
+                    "balance": "0 ftm"
+                }
+            }
+        },
+        "7": {
+            "passphrase": "testing 123",
+            "HEX": "cc6004bb7ab40e52a92928146ffdb32f10d48c599d5fbf9a7eaa4e3623ec7d69",
+            "Addresses": {
+                "Addresses": {
+                    "address": "0xb2D3ABcA94Dd8592B760879E99DE3B968e656B73",
+                    "balance": "0 ftm"
+                }
+            }
+        },
+        "8": {
+            "passphrase": "Bob is a great guy",
+            "HEX": "b3d9971604f66fe9ab4a0253f9fc5ad02da7cdd35153e044539c6e93b6a2a9d4",
+            "Addresses": {
+                "Addresses": {
+                    "address": "0x77e50ce9bd7f078a151AF71f36eB6f6A01f0f997",
+                    "balance": "0 ftm"
+                }
+            }
+        },
+        "9": {
+            "passphrase": "perfume invisible",
+            "HEX": "b9be0d801e1ad1b3607e935b762c0e0290ddc007f769dbe88e80b5aff1c3025e",
+            "Addresses": {
+                "Addresses": {
+                    "address": "0x1fdAea80d8006c9A60bCd836E3d95f07980B6d2e",
+                    "balance": "0 ftm"
+                }
+            }
+        },
+        "10": {
+            "passphrase": "bugjest",
+            "HEX": "6147e9314c1fdb987907a1de3bca2939f5e204b720e727d03d5b12f48366cced",
+            "Addresses": {
+                "Addresses": {
+                    "address": "0xee19Cf476B5D720187f780093214dFBd9A1ba922",
+                    "balance": "0 ftm"
+                }
+            }
+        },
+        "11": {
+            "passphrase": "it was the best of times",
+            "HEX": "a68e4636eb0a8fcc4feec0ec609f429713112e6689d62daf86139d1c925dd49a",
+            "Addresses": {
+                "Addresses": {
+                    "address": "0x9CbcbCCA65822F0DB114d6Bbca0e7f00d6fa294c",
+                    "balance": "0 ftm"
+                }
+            }
+        },
+        "12": {
+            "passphrase": "You stay classy San Diego",
+            "HEX": "dc67248911851c25280832a68549fbbf1f933596b0c29d9a32bbb8f7a99ef8d7",
+            "Addresses": {
+                "Addresses": {
+                    "address": "0xD7D95a78eb44447300D9F462bF226626f99b66F2",
+                    "balance": "0 ftm"
+                }
+            }
+        },
+        "13": {
+            "passphrase": "threaded claRity",
+            "HEX": "2ee928d546701f1bd3799ebd0adeb553df8f27f9baaf6c48ae89149232f9eb19",
+            "Addresses": {
+                "Addresses": {
+                    "address": "0x8d3870E92e9768Ed92Cd2377064c70Dc70487089",
+                    "balance": "0 ftm"
+                }
+            }
+        },
+        "14": {
+            "passphrase": "completionacknowledged",
+            "HEX": "bc9dfba963da0b2d579339ec1b03c9438aa7cde29e05ccb774a2f0f714b60d11",
+            "Addresses": {
+                "Addresses": {
+                    "address": "0x7F94C9785269C543d4e5FaC897fd693ED165F008",
+                    "balance": "0 ftm"
+                }
+            }
+        },
+        "15": {
+            "passphrase": "1BASE",
+            "HEX": "df46d1d943ed2b2b4f3b63b697df3de69376ed0859d40b2eefd38af89669319c",
+            "Addresses": {
+                "Addresses": {
+                    "address": "0xeE913284Be71eE99AAf8d90361Ce2226d94DaF27",
+                    "balance": "0 ftm"
+                }
+            }
+        },
+        "16": {
+            "passphrase": "Tinclon",
+            "HEX": "146490d65e9b0414ce10a19f6af89c63d5d379cc159f0bbbab4332249c374813",
+            "Addresses": {
+                "Addresses": {
+                    "address": "0xf31c8463e1Cd2B72B88a2f5DD13bb865433b1FaE",
+                    "balance": "0 ftm"
+                }
+            }
+        },
+        "17": {
+            "passphrase": "The Quick Brown Fox",
+            "HEX": "dcd63a4388e0c83bc908071aaef38decf37c1b1e0ab3e633c37d467f1ec6b2ad",
+            "Addresses": {
+                "Addresses": {
+                    "address": "0xa028324B3c9B074f8af30C67126Ce6Bc4503d987",
+                    "balance": "0 ftm"
+                }
+            }
+        },
+        "18": {
+            "passphrase": "YouAreAllDiseased",
+            "HEX": "21be94bd602f21387248726c625a62a5f2c2e97f52d383b6e484a637ee9a9f02",
+            "Addresses": {
+                "Addresses": {
+                    "address": "0x7D5607D431b1d6C7DeE9A353c1E8de641118e965",
+                    "balance": "0 ftm"
+                }
+            }
+        },
+        "19": {
+            "passphrase": "Reggie Wayne",
+            "HEX": "87d75468c1fae7dd9ed765ae2bbdb0e9f69b4650eb07a1364d5232667b8f0fe7",
+            "Addresses": {
+                "Addresses": {
+                    "address": "0x3BdB8cEe3Cc234E8bC8A6E52334c0be562789A27",
+                    "balance": "0 ftm"
+                }
+            }
+        },
+        "20": {
+            "passphrase": "tomtenthij",
+            "HEX": "78c45482311f25c56d7015f2945a0615c968a81a941f0b1ef9a4ef5f5ad80aca",
+            "Addresses": {
+                "Addresses": {
+                    "address": "0x4Df9B2b46B4F92C0BE5fF79E231c9aA39Ba13109",
+                    "balance": "0 ftm"
+                }
+            }
+        },
+        "21": {
+            "passphrase": "clusit",
+            "HEX": "afe8696c8a596bb1c1e02ae44dd3ad292228a12b26ec7310429388498d3e5eff",
+            "Addresses": {
+                "Addresses": {
+                    "address": "0xaEc30153Af0daeec96C6d44eF8B75aF1D28D500c",
+                    "balance": "0 ftm"
+                }
+            }
+        },
+        "22": {
+            "passphrase": "Scavenger Hunt",
+            "HEX": "ede8a84d6796aa531efa325919dc1ff8c6bd4546560366f142443a1f2a851d9a",
+            "Addresses": {
+                "Addresses": {
+                    "address": "0x271Aa91e22435d198c16823DaE15efb25c5CE2AA",
+                    "balance": "0 ftm"
+                }
+            }
+        },
+        "23": {
+            "passphrase": "Holly Marie Wood",
+            "HEX": "3ad5a9e2e57752df31787433576768f573a60001378d871ea8ed0145e15b9ecd",
+            "Addresses": {
+                "Addresses": {
+                    "address": "0xd63e403b6918f1824605CBAF6c0BF216E5C37335",
+                    "balance": "0 ftm"
+                }
+            }
+        },
+        "24": {
+            "passphrase": "grill",
+            "HEX": "2d6c1f3fa3c69d96c4b1ce5dbccaf4456ad87bf9462fa774763d1a6fc8fd6304",
+            "Addresses": {
+                "Addresses": {
+                    "address": "0xF12d96f44515aFc6a5185694B548059868f2F90F",
+                    "balance": "0 ftm"
+                }
+            }
+        },
+        "25": {
+            "passphrase": "072723a6a5fd8fde8ee76370f6317ac9395d54b72bd8a0a54093f2980f6fb23e",
+            "HEX": "17d812f364f04044fbe190177d1f7fc0623df9ff69885a47fdf9fff3cef72b0e",
+            "Addresses": {
+                "Addresses": {
+                    "address": "0x653919Fdeb92658e8D6f9128Dfe28465411b3038",
+                    "balance": "0 ftm"
+                }
+            }
+        },
+        "26": {
+            "passphrase": "1KrutzZZ7rth6D9wasfGz2oy9R6k1RCL9n",
+            "HEX": "11309fa3ae281a7f9290e08d421d2c0167c219c0e945315660bb60104520071e",
+            "Addresses": {
+                "Addresses": {
+                    "address": "0x167F02AA7FF9D67376E5fDACb2232780B87c0349",
+                    "balance": "0 ftm"
+                }
+            }
+        },
+        "27": {
+            "passphrase": "1FEwM9bq3BnmPLWw5vn162aBKjoYYBfyyi",
+            "HEX": "57b82530741f5cbfcb8305d5a9d6dc93b558f6a9ef8c2c84837de64cc0952775",
+            "Addresses": {
+                "Addresses": {
+                    "address": "0x1dc0Adb21A80178F8B2bAf6Bd25b0140f861Ad7c",
+                    "balance": "0 ftm"
+                }
+            }
+        },
+        "28": {
+            "passphrase": "1LFCEek8FobJRXb5YrzWJ6M2y8Tx2Xg3NB",
+            "HEX": "6a1ff89db4d808ea88159a18873989b603fca112ad48aca72b5a0174008fba85",
+            "Addresses": {
+                "Addresses": {
+                    "address": "0x529A18cb0EFF3576F57E6c7D80c7695aA45d9E0f",
+                    "balance": "0 ftm"
+                }
+            }
+        },
+        "29": {
+            "passphrase": "1NbBTJQ5azGEA1yhGnLh39fE8YoEbePpCm",
+            "HEX": "8f3bc1e84133e7bc4f9b1ac07766743f33227909adf0cb3dc83f187b7575cada",
+            "Addresses": {
+                "Addresses": {
+                    "address": "0xB1Ad7c9306F7d0452974Db339792CD676F461a12",
+                    "balance": "0 ftm"
+                }
+            }
+        },
+        "30": {
+            "passphrase": "0123456789",
+            "HEX": "84d89877f0d4041efb6bf91a16f0248f2fd573e6af05c19f96bedb9f882f7882",
+            "Addresses": {
+                "Addresses": {
+                    "address": "0x7576DC340f9335a024dA2e102BC724031D24cB09",
+                    "balance": "0 ftm"
+                }
+            }
+        },
+        "31": {
+            "passphrase": "02011980",
+            "HEX": "3e2f2a983f320997314ba959474dbd8a5b7fc3059944963e41378074b738ac18",
+            "Addresses": {
+                "Addresses": {
+                    "address": "0x044AFc24E91Fa76fC6A3B1ff1E79030984a0B3c5",
+                    "balance": "0 ftm"
+                }
+            }
+        },
+        "32": {
+            "passphrase": "31337",
+            "HEX": "1483099c89000a68c3d88446a6a7669b765f09900cbfb0898ccd784b2a6bfe2d",
+            "Addresses": {
+                "Addresses": {
+                    "address": "0x46c0026D39b7ABC3d65D7edBFEE91957855d31c0",
+                    "balance": "0 ftm"
+                }
+            }
+        },
+        "33": {
+            "passphrase": "491278",
+            "HEX": "4b06a3c8f7b0102245cbcfa5e0421912816336deb97b744fb89459f36aeda74f",
+            "Addresses": {
+                "Addresses": {
+                    "address": "0x47bD9AD798Cba6C96A9CDC22a49533E5dD9c7011",
+                    "balance": "0 ftm"
+                }
+            }
+        },
+        "34": {
+            "passphrase": "antoniomanuel",
+            "HEX": "49c0ebc7ab5bf2a870c164699cf389f800ccfd433bb20303a8aa0478fb033abf",
+            "Addresses": {
+                "Addresses": {
+                    "address": "0x6E734C6fCE3472eeCB769313Dcfa06079AD90b76",
+                    "balance": "0 ftm"
+                }
+            }
+        },
+        "35": {
+            "passphrase": "aznar",
+            "HEX": "d4f84435fc52586a6a41d3feb15a45844a1915548bb21d1f18ebb398577e5cbc",
+            "Addresses": {
+                "Addresses": {
+                    "address": "0x0954B566e8348D490e115e1d91aD54973EBC209b",
+                    "balance": "0 ftm"
+                }
+            }
+        },
+        "36": {
+            "passphrase": "bit",
+            "HEX": "d0013c2e0a387e4c6e6962c5f4b0c9481d60fbb9eb425ae5cda2f8ceb2c0064f",
+            "Addresses": {
+                "Addresses": {
+                    "address": "0xBF24c48dd61D58A8a8b853734731B728877f1236",
+                    "balance": "0 ftm"
+                }
+            }
+        },
+        "37": {
+            "passphrase": "cat in the hat",
+            "HEX": "32fb47ecc1847283265d1d9c1574a6aa7c6d0f9c96483d30954577b84887d024",
+            "Addresses": {
+                "Addresses": {
+                    "address": "0x3Dea8B30a96e35005bf17Fb5FF8C21aBF9E57873",
+                    "balance": "0 ftm"
+                }
+            }
+        },
+        "38": {
+            "passphrase": "danadanadana",
+            "HEX": "ca81fe4daa05458118d9c31e7280dcc1f5fbe95cab08023d5bbd85a15348f34d",
+            "Addresses": {
+                "Addresses": {
+                    "address": "0xE520f8EcB8e41cc17C574262bC12b4D142e2De9D",
+                    "balance": "0 ftm"
+                }
+            }
+        },
+        "39": {
+            "passphrase": "defcon",
+            "HEX": "090586595263e74bc2a40f6f3c22330f08ef266a7b7ff848bc3fc3fa85c9db4a",
+            "Addresses": {
+                "Addresses": {
+                    "address": "0xeE20D88FD7743599333ADccaEd1F7041970df9D2",
+                    "balance": "0 ftm"
+                }
+            }
+        },
+        "40": {
+            "passphrase": "flute",
+            "HEX": "c52c4fb88926f84bcbc39459fb74792f00032309d52aa2f242741702958003cc",
+            "Addresses": {
+                "Addresses": {
+                    "address": "0x966311a7A14FfF42508FB6Cf209715549Cf48463",
+                    "balance": "0 ftm"
+                }
+            }
+        },
+        "41": {
+            "passphrase": "fog",
+            "HEX": "b04216546057e8659fecdec71043ffe7e3220178fa3df37650d6fdbb631dcda8",
+            "Addresses": {
+                "Addresses": {
+                    "address": "0x8828CA2Bf281979Ef6C81b68818fb715485e795e",
+                    "balance": "0 ftm"
+                }
+            }
+        },
+        "42": {
+            "passphrase": "fuck me",
+            "HEX": "9cbedd8230a0c9e949b0dd438b3a6d8530791ec6c8f9732b6a36ce4853835d63",
+            "Addresses": {
+                "Addresses": {
+                    "address": "0x6133AD56Af0E62e48B72d796E47C2C312dE29401",
+                    "balance": "0 ftm"
+                }
+            }
+        },
+        "43": {
+            "passphrase": "H",
+            "HEX": "44bd7ae60f478fae1061e11a7739f4b94d1daf917982d33b6fc8a01a63f89c21",
+            "Addresses": {
+                "Addresses": {
+                    "address": "0x3DC20364266ab349e4D681785a02032Cb45aC97a",
+                    "balance": "0 ftm"
+                }
+            }
+        },
+        "44": {
+            "passphrase": "Hani",
+            "HEX": "b213d1a04c8793dddf4eb6673c50fde526a189a722e10e96cdabb27da7db23d2",
+            "Addresses": {
+                "Addresses": {
+                    "address": "0xBf7366a16bcFAb4Ef6539b77e38e63bD44A31EBB",
+                    "balance": "0 ftm"
+                }
+            }
+        },
+        "45": {
+            "passphrase": "He",
+            "HEX": "30efdfb52ff67f80dab7cb89dcfe0eec8412966cfe58324993674b4616d6bd11",
+            "Addresses": {
+                "Addresses": {
+                    "address": "0x36Db639C304d0F19b370E804dC6f9aF5AA409A6F",
+                    "balance": "0 ftm"
+                }
+            }
+        },
+        "46": {
+            "passphrase": "Hel",
+            "HEX": "b789c24dcdb68c4437b04c186bf239a7207e7573fb1b22a749fe1a7b8d96d292",
+            "Addresses": {
+                "Addresses": {
+                    "address": "0x4f34cdC2F675811d2be74f0d279D1Fa12003E1cB",
+                    "balance": "0 ftm"
+                }
+            }
+        },
+        "47": {
+            "passphrase": "Hell",
+            "HEX": "8d586f8b60df1ad7502b52fc50d2e0b6d0d9b5643875c054d821dfd8e6672bed",
+            "Addresses": {
+                "Addresses": {
+                    "address": "0xEb884cFdC2192544755A676a90f8A25d2664660c",
+                    "balance": "0 ftm"
+                }
+            }
+        },
+        "48": {
+            "passphrase": "Hello",
+            "HEX": "185f8db32271fe25f561a6fc938b2e264306ec304eda518007d1764826381969",
+            "Addresses": {
+                "Addresses": {
+                    "address": "0x6a2E5B874e38c6EfE84b0C91D4bB0F324c5673c5",
+                    "balance": "0 ftm"
+                }
+            }
+        },
+        "49": {
+            "passphrase": "hellohellohello",
+            "HEX": "ee989411b1cb1087161b46501562588be3430d6fd110115c66bdd644b76e0779",
+            "Addresses": {
+                "Addresses": {
+                    "address": "0x874814204c66ADF75b737e05AFa3393Eb378C52e",
+                    "balance": "0 ftm"
+                }
+            }
+        },
+        "50": {
+            "passphrase": "house",
+            "HEX": "d6e21286621a8586f7e54720ab5a39c93acc2f4b8fba7a16ec1c24d69a08c613",
+            "Addresses": {
+                "Addresses": {
+                    "address": "0xCcB116CB1902EAD723c1DE62617a450a3f642F88",
+                    "balance": "0 ftm"
+                }
+            }
+        },
+        "51": {
+            "passphrase": "louis",
+            "HEX": "5f16795c54ab7de419edf8e9c6da6065f7dd448f122fcbc9815c67daa566ba8e",
+            "Addresses": {
+                "Addresses": {
+                    "address": "0xA14A4e740066ce00FFE40851d49AC6d356A35906",
+                    "balance": "0 ftm"
+                }
+            }
+        },
+        "52": {
+            "passphrase": "QY",
+            "HEX": "7a599ff1052e7c7fe7574b55c9aa53275c6c467ad14579dc8f2ca9fc628643fa",
+            "Addresses": {
+                "Addresses": {
+                    "address": "0x3eB4D0872cC201DdE44D5fa974D829bba70C2DB8",
+                    "balance": "0 ftm"
+                }
+            }
+        },
+        "53": {
+            "passphrase": "h4x",
+            "HEX": "68d6afc9d50755eb78ca3fe35eff54a6389fbe07423c7f9bd3067f34e71e10e0",
+            "Addresses": {
+                "Addresses": {
+                    "address": "0xcF79cD20CA4B397bf21fc147404bA07Afe40fc7E",
+                    "balance": "0 ftm"
+                }
+            }
+        },
+        "54": {
+            "passphrase": "misXV301294",
+            "HEX": "4531b13824fea05f6c8017f67e13f0a64fc3b5f445f744abc885fb29818abd7f",
+            "Addresses": {
+                "Addresses": {
+                    "address": "0x6D779b12Cb56033A00150b0e12E1E7A610E7EE1E",
+                    "balance": "0 ftm"
+                }
+            }
+        },
+        "55": {
+            "passphrase": "money",
+            "HEX": "8d2ac8b58ead9744d77286de9b0bcb7a894f238c3149fc9f3b1e3caff36330fe",
+            "Addresses": {
+                "Addresses": {
+                    "address": "0x4EDfE49B9aaAcB03f1f4ddd53B14b07c0706913B",
+                    "balance": "0 ftm"
+                }
+            }
+        },
+        "56": {
+            "passphrase": "Nitro",
+            "HEX": "db1dddcc68fe9aadca6eba41d69552c3306069690501271dca6c4a84a9b4949f",
+            "Addresses": {
+                "Addresses": {
+                    "address": "0x9e13f0e4179443421F95Eb2CEE7e6818a2dD44D0",
+                    "balance": "0 ftm"
+                }
+            }
+        },
+        "57": {
+            "passphrase": "niece",
+            "HEX": "cbe6181036b5818eb3190b277bdc445b0c1fff31507aae15bf780e8176c9d942",
+            "Addresses": {
+                "Addresses": {
+                    "address": "0xdD85064ED7b938a2f0a47b4AAd0BE49935e438ea",
+                    "balance": "0 ftm"
+                }
+            }
+        },
+        "58": {
+            "passphrase": "onetwothreefourfive",
+            "HEX": "a150e219c0f8f3ad73f21a78c9376b15cb9ae96e36959f5406ed836f517f746f",
+            "Addresses": {
+                "Addresses": {
+                    "address": "0x8D588ebCa6d95550e5541163a3432c4a3583D58C",
+                    "balance": "0 ftm"
+                }
+            }
+        },
+        "59": {
+            "passphrase": "pass",
+            "HEX": "d74ff0ee8da3b9806b18c877dbf29bbde50b5bd8e4dad7a3a725000feb82e8f1",
+            "Addresses": {
+                "Addresses": {
+                    "address": "0x65614adE3509a20Acd1F2716ce10387685bdC39c",
+                    "balance": "0 ftm"
+                }
+            }
+        }
+    }
+}
